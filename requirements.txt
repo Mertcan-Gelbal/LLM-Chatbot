@@ -1,0 +1,23 @@
+# Botanical BERT Expert System - Essential Dependencies
+
+# Core ML/AI Libraries
+torch>=2.0.0
+transformers>=4.21.0
+tokenizers>=0.13.0
+
+# Data Science & Analysis
+pandas>=1.5.0
+numpy>=1.21.0
+scikit-learn>=1.1.0
+
+# Visualization (optional)
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Utilities
+tqdm>=4.64.0
+
+# Optional Dependencies (install as needed)
+# TensorFlow for H5 export: tensorflow>=2.10.0
+# Flask for API: flask>=2.2.0
+# Jupyter for notebooks: jupyter>=1.0.0 

@@ -1,0 +1,30 @@
+{
+  "model_type": "small_bert",
+  "num_labels": 6,
+  "id2label": {
+    "0": "crop_management",
+    "1": "environmental_factors",
+    "2": "food_security",
+    "3": "plant_disease",
+    "4": "plant_genetics",
+    "5": "technology"
+  },
+  "label2id": {
+    "crop_management": 0,
+    "environmental_factors": 1,
+    "food_security": 2,
+    "plant_disease": 3,
+    "plant_genetics": 4,
+    "technology": 5
+  },
+  "max_length": 256,
+  "batch_size": 12,
+  "learning_rate": 2e-05,
+  "epochs": 6,
+  "total_params": 22715526,
+  "trainable_params": 22715526,
+  "best_val_accuracy": 0.7296296296296296,
+  "test_accuracy": 0.7481481481481481,
+  "test_f1_score": 0.752703348673164,
+  "training_time": 207.08070850372314
+}

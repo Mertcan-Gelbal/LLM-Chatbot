@@ -1,8 +1,0 @@
-{
-  "total_chunks": 13200,
-  "pdf_chunks": 3452,
-  "synthetic_chunks": 9748,
-  "embedding_dimension": 384,
-  "index_size": 13200,
-  "total_words": 6355302
-}
