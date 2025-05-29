@@ -6,7 +6,7 @@
 [![PyTorch 2.3](https://img.shields.io/badge/PyTorch-2.3.0-orange.svg)](https://pytorch.org/)
 [![BERT](https://img.shields.io/badge/BERT-base%20%7C%20large-orange.svg)](https://huggingface.co/bert-base-uncased)
 
-**Jetson Orin Nano Super** için optimize edilmiş, tarımsal hastalık ve crop management için gelişmiş BERT text classification sistemi.
+**Advanced expert chatbot on diseases in agricultural plants.** Jetson Orin Nano Super için optimize edilmiş, tarımsal hastalık ve crop management için gelişmiş BERT text classification sistemi.
 
 ## 🎯 Proje Özeti
 
@@ -161,7 +161,7 @@ ssh-copy-id jetson-super@10.147.19.180
 ## 📞 Support & Documentation
 
 - **BERT Details:** [README_BERT.md](README_BERT.md)
-- **Deployment Guide:** [JETSON_JP62_DEPLOYMENT.md](JETSON_JP62_DEPLOYMENT.md)
+- **Deployment Guide:** [JETSON_ORIN_SUPER_DEPLOYMENT.md](JETSON_ORIN_SUPER_DEPLOYMENT.md)
 - **GitHub Issues:** Repository'de issue açın
 
 ---
