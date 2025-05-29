@@ -56,9 +56,9 @@ db.sqlite3
 
 # Flask stuff:
 instance/
-.webassets-cache
+.webaskets-cache
 
-# Scrapy stuff:
+# Scrapy stuff
 .scrapy
 
 # Sphinx documentation
@@ -109,19 +109,34 @@ dmypy.json
 *.swo
 *~
 
-# Model files
+# Model files (ALL MODELS)
 models/
 *.bin
 *.pt
 *.pth
 *.onnx
 *.trt
+*.safetensors
 
-# Data files (large)
-data_processing/real_papers/pdfs/*.pdf
-final_system/complete_index/chunks/*.json
-final_system/complete_index/embeddings/*.npy
-final_system/complete_index/indices/*.bin
+# Data files (LARGE FILES - GitHub dosya limit 100MB)
+data_processing/real_papers/pdfs/
+data_processing/synthetic_papers/*.json
+data_processing/academic_papers/
+final_system/complete_index/chunks/all_chunks.json
+final_system/complete_index/embeddings/
+final_system/complete_index/indices/
+final_system/*.tar.gz
+final_system/agricultural_rag_index.tar.gz
+
+# Keep only small essential files
+!data_processing/plant_disease_taxonomy.json
+!data_processing/synthesis_report.md
+!final_system/RAG_INDEX_README.md
+!final_system/complete_index/stats.json
+
+# Agricultural datasets (keep processed ones)
+agricultural_datasets/*.json
+agricultural_datasets/agricultural_bert_detailed.csv
 
 # Logs
 logs/
@@ -148,4 +163,9 @@ Thumbs.db
 
 # Temporary files
 tmp/
-temp/ 
+temp/
+test_*.py
+
+# Large backup files
+*.backup
+*.bak 
