@@ -1,0 +1,355 @@
+{
+  "taxonomy": {
+    "major_crops": {
+      "cereals": {
+        "wheat": {
+          "scientific_name": "Triticum aestivum",
+          "common_diseases": [
+            "wheat_rust",
+            "wheat_bunt",
+            "wheat_smut",
+            "powdery_mildew",
+            "septoria_leaf_blotch",
+            "fusarium_head_blight"
+          ]
+        },
+        "rice": {
+          "scientific_name": "Oryza sativa",
+          "common_diseases": [
+            "rice_blast",
+            "bacterial_blight",
+            "brown_spot",
+            "sheath_blight",
+            "tungro_virus"
+          ]
+        },
+        "corn": {
+          "scientific_name": "Zea mays",
+          "common_diseases": [
+            "corn_smut",
+            "northern_leaf_blight",
+            "southern_leaf_blight",
+            "gray_leaf_spot",
+            "common_rust"
+          ]
+        },
+        "barley": {
+          "scientific_name": "Hordeum vulgare",
+          "common_diseases": [
+            "barley_stripe",
+            "powdery_mildew",
+            "net_blotch",
+            "scald"
+          ]
+        }
+      },
+      "legumes": {
+        "soybean": {
+          "scientific_name": "Glycine max",
+          "common_diseases": [
+            "soybean_rust",
+            "frogeye_leaf_spot",
+            "bacterial_blight",
+            "root_rot",
+            "mosaic_virus"
+          ]
+        },
+        "bean": {
+          "scientific_name": "Phaseolus vulgaris",
+          "common_diseases": [
+            "anthracnose",
+            "bacterial_blight",
+            "rust",
+            "mosaic_virus"
+          ]
+        },
+        "pea": {
+          "scientific_name": "Pisum sativum",
+          "common_diseases": [
+            "powdery_mildew",
+            "downy_mildew",
+            "bacterial_blight",
+            "root_rot"
+          ]
+        }
+      },
+      "fiber_crops": {
+        "cotton": {
+          "scientific_name": "Gossypium hirsutum",
+          "common_diseases": [
+            "fusarium_wilt",
+            "verticillium_wilt",
+            "bacterial_blight",
+            "bollworm",
+            "leaf_curl_virus"
+          ]
+        }
+      },
+      "root_tuber_crops": {
+        "potato": {
+          "scientific_name": "Solanum tuberosum",
+          "common_diseases": [
+            "late_blight",
+            "early_blight",
+            "bacterial_wilt",
+            "virus_y",
+            "blackleg"
+          ]
+        },
+        "sweet_potato": {
+          "scientific_name": "Ipomoea batatas",
+          "common_diseases": [
+            "black_rot",
+            "fusarium_wilt",
+            "bacterial_blight"
+          ]
+        }
+      }
+    },
+    "vegetables": {
+      "solanaceae": {
+        "tomato": {
+          "scientific_name": "Solanum lycopersicum",
+          "common_diseases": [
+            "late_blight",
+            "early_blight",
+            "bacterial_speck",
+            "fusarium_wilt",
+            "mosaic_virus",
+            "leaf_curl_virus"
+          ]
+        },
+        "pepper": {
+          "scientific_name": "Capsicum annuum",
+          "common_diseases": [
+            "bacterial_spot",
+            "anthracnose",
+            "powdery_mildew",
+            "mosaic_virus"
+          ]
+        },
+        "eggplant": {
+          "scientific_name": "Solanum melongena",
+          "common_diseases": [
+            "bacterial_wilt",
+            "verticillium_wilt",
+            "anthracnose"
+          ]
+        }
+      },
+      "cucurbitaceae": {
+        "cucumber": {
+          "scientific_name": "Cucumis sativus",
+          "common_diseases": [
+            "downy_mildew",
+            "powdery_mildew",
+            "bacterial_wilt",
+            "mosaic_virus"
+          ]
+        },
+        "squash": {
+          "scientific_name": "Cucurbita pepo",
+          "common_diseases": [
+            "powdery_mildew",
+            "downy_mildew",
+            "bacterial_wilt",
+            "mosaic_virus"
+          ]
+        }
+      },
+      "brassicaceae": {
+        "cabbage": {
+          "scientific_name": "Brassica oleracea",
+          "common_diseases": [
+            "black_rot",
+            "clubroot",
+            "downy_mildew",
+            "bacterial_soft_rot"
+          ]
+        },
+        "broccoli": {
+          "scientific_name": "Brassica oleracea var. italica",
+          "common_diseases": [
+            "black_rot",
+            "downy_mildew",
+            "bacterial_soft_rot"
+          ]
+        }
+      }
+    },
+    "fruits": {
+      "tree_fruits": {
+        "apple": {
+          "scientific_name": "Malus domestica",
+          "common_diseases": [
+            "fire_blight",
+            "apple_scab",
+            "powdery_mildew",
+            "cedar_apple_rust"
+          ]
+        },
+        "citrus": {
+          "scientific_name": "Citrus spp.",
+          "common_diseases": [
+            "citrus_canker",
+            "huanglongbing",
+            "melanose",
+            "citrus_scab"
+          ]
+        },
+        "grape": {
+          "scientific_name": "Vitis vinifera",
+          "common_diseases": [
+            "powdery_mildew",
+            "downy_mildew",
+            "black_rot",
+            "pierce_disease"
+          ]
+        }
+      },
+      "small_fruits": {
+        "strawberry": {
+          "scientific_name": "Fragaria × ananassa",
+          "common_diseases": [
+            "gray_mold",
+            "leaf_spot",
+            "anthracnose",
+            "powdery_mildew"
+          ]
+        }
+      }
+    }
+  },
+  "disease_types": {
+    "fungal": {
+      "description": "Diseases caused by fungi",
+      "examples": [
+        "powdery_mildew",
+        "downy_mildew",
+        "rust",
+        "smut",
+        "blight",
+        "rot",
+        "scab",
+        "anthracnose"
+      ],
+      "characteristics": [
+        "spore_formation",
+        "mycelium_growth",
+        "environmental_dependent",
+        "can_overwinter"
+      ]
+    },
+    "bacterial": {
+      "description": "Diseases caused by bacteria",
+      "examples": [
+        "bacterial_blight",
+        "bacterial_wilt",
+        "bacterial_spot",
+        "fire_blight",
+        "soft_rot",
+        "canker"
+      ],
+      "characteristics": [
+        "water_soaked_lesions",
+        "rapid_spread",
+        "seed_transmission",
+        "insect_vectors"
+      ]
+    },
+    "viral": {
+      "description": "Diseases caused by viruses",
+      "examples": [
+        "mosaic_virus",
+        "leaf_curl_virus",
+        "tungro_virus",
+        "yellow_dwarf_virus"
+      ],
+      "characteristics": [
+        "vector_transmitted",
+        "systemic_infection",
+        "stunting",
+        "discoloration"
+      ]
+    },
+    "nematode": {
+      "description": "Diseases caused by nematodes",
+      "examples": [
+        "root_knot_nematode",
+        "cyst_nematode",
+        "lesion_nematode"
+      ],
+      "characteristics": [
+        "root_damage",
+        "gall_formation",
+        "soil_borne",
+        "microscopic"
+      ]
+    },
+    "physiological": {
+      "description": "Non-infectious disorders",
+      "examples": [
+        "nutrient_deficiency",
+        "water_stress",
+        "temperature_stress",
+        "salt_stress"
+      ],
+      "characteristics": [
+        "abiotic_factors",
+        "environmental_stress",
+        "management_related"
+      ]
+    }
+  },
+  "detection_methods": {
+    "traditional": [
+      "visual_inspection",
+      "symptom_identification",
+      "microscopic_examination",
+      "culture_methods"
+    ],
+    "molecular": [
+      "pcr",
+      "real_time_pcr",
+      "dna_sequencing",
+      "serological_tests",
+      "elisa"
+    ],
+    "modern": [
+      "machine_learning",
+      "deep_learning",
+      "computer_vision",
+      "hyperspectral_imaging",
+      "remote_sensing",
+      "thermal_imaging",
+      "fluorescence_imaging"
+    ]
+  },
+  "management_strategies": {
+    "cultural": [
+      "crop_rotation",
+      "resistant_varieties",
+      "sanitation",
+      "planting_date_adjustment",
+      "field_selection"
+    ],
+    "biological": [
+      "biocontrol_agents",
+      "beneficial_microorganisms",
+      "natural_enemies",
+      "compost_amendments"
+    ],
+    "chemical": [
+      "fungicides",
+      "bactericides",
+      "nematicides",
+      "insecticides_for_vectors"
+    ],
+    "integrated": [
+      "ipm",
+      "precision_agriculture",
+      "decision_support_systems",
+      "forecasting_models"
+    ]
+  }
+} 

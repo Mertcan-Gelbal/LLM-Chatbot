@@ -1,0 +1,2058 @@
+{
+  "papers": [
+    {
+      "id": "arxiv_2502.19333v1",
+      "arxiv_id": "2502.19333v1",
+      "title": "Validating the predictions of mathematical models describing tumor\n  growth and treatment response",
+      "abstract": "Despite advances in methods to interrogate tumor biology, the observational\nand population-based approach of classical cancer research and clinical\noncology does not enable anticipation of tumor outcomes to hasten the discovery\nof cancer mechanisms and personalize disease management. To address these\nlimitations, individualized cancer forecasts have been shown to predict tumor\ngrowth and therapeutic response, inform treatment optimization, and guide\nexperimental efforts. These predictions are obtained via computer simulations\nof mathematical models that are constrained with data from a patient's cancer\nand experiments. This book chapter addresses the validation of these\nmathematical models to forecast tumor growth and treatment response. We start\nwith an overview of mathematical modeling frameworks, model selection\ntechniques, and fundamental metrics. We then describe the usual strategies\nemployed to validate cancer forecasts in preclinical and clinical scenarios.\nFinally, we discuss existing barriers in validating these predictions along\nwith potential strategies to address them.",
+      "authors": [
+        "Guillermo Lorenzo",
+        "David A. Hormuth II",
+        "Chengyue Wu",
+        "Graham Pash",
+        "Anirban Chaudhuri",
+        "Ernesto A. B. F. Lima",
+        "Lois C. Okereke",
+        "Reshmi Patel",
+        "Karen Willcox",
+        "Thomas E. Yankeelov"
+      ],
+      "categories": [
+        "q-bio.TO",
+        "cs.CE",
+        "q-bio.CB",
+        "q-bio.QM"
+      ],
+      "journal": "arXiv",
+      "year": 2025,
+      "source": "arXiv",
+      "search_term": {
+        "query": "yapay zeka management",
+        "category": "disease_management",
+        "plant": "yapay",
+        "disease": "zeka",
+        "priority": "high"
+      },
+      "relevance_score": 3.0,
+      "pdf_url": "http://arxiv.org/pdf/2502.19333v1"
+    },
+    {
+      "id": "arxiv_1808.00301v1",
+      "arxiv_id": "1808.00301v1",
+      "title": "Advances in computational modeling approaches in pituitary gonadotropin\n  signaling",
+      "abstract": "Pituitary gonadotropins play an essential and pivotal role in the control of\nhuman and animal reproduction within the hypothalamic-pituitary-gonadal (HPG)\naxis. The computational modeling of pituitary gonadotropin signaling\nencompasses phenomena of different natures such as the dynamic encoding of\ngonadotropin secretion, and the intracellular cascades triggered by\ngonadotropin binding to their cognate receptors, resulting in a variety of\nbiological outcomes. We overview historical and ongoing issues in modeling and\ndata analysis related to gonadotropin secretion in the field of both physiology\nand neuro-endocrinology. We mention the different mathematical formalisms\ninvolved, their interest and limits. We discuss open statistical questions in\nsignal analysis associated with key endocrine issues. We also review recent\nadvances in the modeling of the intracellular pathways activated by\ngonadotropins, which yields promising development for innovative approaches in\ndrug discovery. The greatest challenge to be tackled in computational modeling\nof pituitary gonadotropin signaling is the embedding of gonadotropin signaling\nwithin its natural multi-scale environment, from the single cell level, to the\norganic and whole HPG level. The development of modeling approaches of G\nprotein-coupled receptor signaling, together with multicellular systems biology\nmay lead to unexampled mechanistic understanding with critical expected\nfallouts in the therapeutic management of reproduction.",
+      "authors": [
+        "Romain Yvinec",
+        "Pascale Crépieux",
+        "Eric Reiter",
+        "Anne Poupon",
+        "Frédérique Clément"
+      ],
+      "categories": [
+        "q-bio.MN",
+        "q-bio.CB"
+      ],
+      "journal": "arXiv",
+      "year": 2018,
+      "source": "arXiv",
+      "search_term": {
+        "query": "yapay zeka management",
+        "category": "disease_management",
+        "plant": "yapay",
+        "disease": "zeka",
+        "priority": "high"
+      },
+      "relevance_score": 3.0,
+      "pdf_url": "http://arxiv.org/pdf/1808.00301v1"
+    },
+    {
+      "id": "arxiv_2308.13038v1",
+      "arxiv_id": "2308.13038v1",
+      "title": "The role of PHF5A in cancer: A review and update",
+      "abstract": "PHF5A is a member of the zinc-finger proteins. To advance knowledge on their\nrole in carcinogenesis, data from experimental studies, animal models and\nclinical studies in different tumorigenesis have been reviewed. Furthermore,\nPHF5A as an oncogenic function, is frequently expressed in tumor cells and a\npotential prognostic marker for different cancers. PHF5A is implicated in the\nregulation of cancer cell proliferation, invasion, migration and metastasis.\nKnockdown of PHF5A prevented the invasion and metastasis of tumor cells. Here,\nthe role of PHF5A in different cancers and their possible mechanism in relation\nto recent literature is reviewed and discussed. However, there is an open\npromising perspective to their therapeutic management for different cancer\ntypes.",
+      "authors": [
+        "Patrick Diaba-Nuhoho"
+      ],
+      "categories": [
+        "q-bio.TO",
+        "q-bio.CB",
+        "q-bio.MN"
+      ],
+      "journal": "arXiv",
+      "year": 2023,
+      "source": "arXiv",
+      "search_term": {
+        "query": "yapay zeka management",
+        "category": "disease_management",
+        "plant": "yapay",
+        "disease": "zeka",
+        "priority": "high"
+      },
+      "relevance_score": 2.0,
+      "pdf_url": "http://arxiv.org/pdf/2308.13038v1"
+    },
+    {
+      "id": "arxiv_2008.00687v1",
+      "arxiv_id": "2008.00687v1",
+      "title": "Genomics-guided drawing of malignant regulatory signatures revealed a\n  pivotal role of human stem cell-associated retroviral sequences (SCARS) and\n  functionally-active hESC enhancers",
+      "abstract": "From patients and physicians perspectives, the clinical definition of a tumor\nmalignant phenotype could be restricted to the early diagnosis of sub-types of\nmalignancies with the increased risk of existing therapy failure and high\nlikelihood of death from cancer. It is the viewpoint from which the\nunderstanding of malignant regulatory signatures is considered in this\ncontribution. Analyses from this perspective of experimental and clinical\nobservations revealed the pivotal role of human stem cell-associated retroviral\nsequences (SCARS) in the origin and pathophysiology of clinically-lethal\nmalignancies. SCARS represent evolutionary- and biologically-related family of\ngenomic regulatory sequences, the principal physiological function of which is\nto create and maintain the stemness phenotype during human preimplantation\nembryogenesis. SCARS expression must be silenced during cellular\ndifferentiation and SCARS activity remains silent in most\nterminally-differentiated human cells performing specialized functions in the\nhuman body. De-repression and sustained activation of SCARS result in\ndifferentiation-defective phenotypes, tissue- and organ-specific clinical\nmanifestations of which are diagnosed as pathological conditions defined by a\nconsensus of pathomorphological, molecular, and genetic examinations as the\nmalignant growth. Contemporary evidence are presented that high-fidelity\nmolecular signals of continuing activities of SCARS in association with genomic\nregulatory networks of thousands functionally-active enhancers triggering\nengagements of down-stream genetic loci may serve as both reliable diagnostic\ntools and druggable molecular targets readily amenable for diagnosis and\nefficient therapeutic management of clinically-lethal malignancies.",
+      "authors": [
+        "Gennadi Glinsky"
+      ],
+      "categories": [
+        "q-bio.GN",
+        "q-bio.MN",
+        "q-bio.PE"
+      ],
+      "journal": "arXiv",
+      "year": 2020,
+      "source": "arXiv",
+      "search_term": {
+        "query": "yapay zeka management",
+        "category": "disease_management",
+        "plant": "yapay",
+        "disease": "zeka",
+        "priority": "high"
+      },
+      "relevance_score": 2.0,
+      "pdf_url": "http://arxiv.org/pdf/2008.00687v1"
+    },
+    {
+      "id": "arxiv_2004.04935v2",
+      "arxiv_id": "2004.04935v2",
+      "title": "A single-cell RNA expression map of coronavirus receptors and associated\n  factors in developing human embryos",
+      "abstract": "To predict if developing human embryos are permissive to coronaviruses, we\nanalyzed publicly available single cell RNA-seq datasets of zygotes, 4-cell,\n8-cell, morula, inner cell mass, epiblast, primitive endoderm and trophectoderm\nfor the coronavirus receptors (ACE2, BSG, DPP4 and ANPEP), the Spike protein\ncleavage enzymes (TMPRSS2, CTSL). We also analyzed the presence of host genes\ninvolved in viral replication, the endosomal sorting complexes required for\ntransport (ESCRT) and SARS-Cov-2 interactions. The results reveal that ACE2,\nBSG, DPP4 and ANPEP are expressed in the cells of the zygote, to blastocyst\nincluding the trophectodermal lineage. ACE2, TMPRSS, BSG and CTSL are\nco-transcribed in a proportion of epiblast cells and most cells of the\ntrophectoderm. The embryonic and trophectodermal cells also express genes for\nproteins ESCRT, viral replication and those that interact with SARS-CoV-2. We\nidentified 1985 genes in epiblast and 1452 genes in the trophectoderm that are\nenriched in the ACE2 and TMPRSS2 co-expressing cells; 216 genes of these are\ncommon in both the cell types. These genes are associated with lipid\nmetabolism, lysosome, peroxisome and oxidative phosphorylation pathways.\nTogether our results suggest that developing human embryos could be permissive\nto coronavirus entry by both canonical and non-canonical mechanisms and they\nalso express the genes for proteins involved in viral endocytosis and\nreplication. This knowledge will be useful for evidence-based patient\nmanagement for IVF during the COVID-19 pandemic.",
+      "authors": [
+        "Stacy Colaco",
+        "Karisma Chhabria",
+        "Domdatt Singh",
+        "Anshul Bhide",
+        "Neha Singh",
+        "Abhishek Singh",
+        "Atahar Husein",
+        "Anuradha Mishra",
+        "Richa Sharma",
+        "Nancy Ashary",
+        "Deepak Modi"
+      ],
+      "categories": [
+        "q-bio.TO",
+        "q-bio.GN"
+      ],
+      "journal": "arXiv",
+      "year": 2020,
+      "source": "arXiv",
+      "search_term": {
+        "query": "yapay zeka management",
+        "category": "disease_management",
+        "plant": "yapay",
+        "disease": "zeka",
+        "priority": "high"
+      },
+      "relevance_score": 2.0,
+      "pdf_url": "http://arxiv.org/pdf/2004.04935v2"
+    },
+    {
+      "id": "arxiv_2411.00948v1",
+      "arxiv_id": "2411.00948v1",
+      "title": "Multiplex Imaging Analysis in Pathology: a Comprehensive Review on\n  Analytical Approaches and Digital Toolkits",
+      "abstract": "Conventional histopathology has long been essential for disease diagnosis,\nrelying on visual inspection of tissue sections. Immunohistochemistry aids in\ndetecting specific biomarkers but is limited by its single-marker approach,\nrestricting its ability to capture the full tissue environment. The advent of\nmultiplexed imaging technologies, like multiplexed immunofluorescence and\nspatial transcriptomics, allows for simultaneous visualization of multiple\nbiomarkers in a single section, enhancing morphological data with molecular and\nspatial information. This provides a more comprehensive view of the tissue\nmicroenvironment, cellular interactions, and disease mechanisms - crucial for\nunderstanding disease progression, prognosis, and treatment response. However,\nthe extensive data from multiplexed imaging necessitates sophisticated\ncomputational methods for preprocessing, segmentation, feature extraction, and\nspatial analysis. These tools are vital for managing large, multidimensional\ndatasets, converting raw imaging data into actionable insights. By automating\nlabor-intensive tasks and enhancing reproducibility and accuracy, computational\ntools are pivotal in diagnostics and research. This review explores the current\nlandscape of multiplexed imaging in pathology, detailing workflows and key\ntechnologies like PathML, an AI-powered platform that streamlines image\nanalysis, making complex dataset interpretation accessible for clinical and\nresearch settings.",
+      "authors": [
+        "Mohamed Omar",
+        "Giuseppe Nicolo Fanelli",
+        "Fabio Socciarelli",
+        "Varun Ullanat",
+        "Sreekar Reddy Puchala",
+        "James Wen",
+        "Alex Chowdhury",
+        "Itzel Valencia",
+        "Cristian Scatena",
+        "Luigi Marchionni",
+        "Renato Umeton",
+        "Massimo Loda"
+      ],
+      "categories": [
+        "q-bio.TO",
+        "cs.CV",
+        "q-bio.CB",
+        "q-bio.MN",
+        "q-bio.QM"
+      ],
+      "journal": "arXiv",
+      "year": 2024,
+      "source": "arXiv",
+      "search_term": {
+        "query": "su yönetimi management",
+        "category": "disease_management",
+        "plant": "su",
+        "disease": "yönetimi",
+        "priority": "high"
+      },
+      "relevance_score": 4.0,
+      "pdf_url": "http://arxiv.org/pdf/2411.00948v1"
+    },
+    {
+      "id": "arxiv_1605.05688v1",
+      "arxiv_id": "1605.05688v1",
+      "title": "A Precise Measure of Working Memory Reveals Subjects Difficulties\n  Managing Limited Capacity",
+      "abstract": "Free recall consists of two separate stages: the emptying of working memory\nand reactivation [1]. The Tarnow Unchunkable Test (TUT, [2]) uses double\ninteger items to separate out only the first stage by making it difficult to\nreactivate items due to the lack of intra-item relationships. 193 Russian\ncollege students were tested via the internet version of the TUT. The average\nnumber of items remembered in the 3 item test was 2.54 items. In the 4 item\ntest, the average number of items decreased to 2.38. This, and a number of\nother qualitative distribution differences between the 3 and 4 item tests,\nindicates that the average capacity limit of working memory has been reached at\n3 items. This provides the first direct measurement of the unchunkable capacity\nlimit of language based items. That the average number of items remembered\ndecreased as the number of items increased from 3 to 4 indicates that most\nsubjects were unable to manage their working memories as the number of items\nincreased just beyond the average capacity. Further evidence for the difficulty\nin managing the capacity limit is that 25% of subjects could not remember any\nitems correctly at least in one of three 4 item tests and that the Pearson\ncorrelation between the 3 item and 4 item subject recalls was a relatively\nsmall 38%. This failure of managing a basic memory resource should have\nimportant consequences for pedagogy including instruction, text book design and\ntest design. Because working memory scores are important for academic\nachievement, it also suggests that an individual can gain academically by\nlearning how to manage her or his capacity limit.",
+      "authors": [
+        "Regina Ershova",
+        "Eugen Tarnow"
+      ],
+      "categories": [
+        "q-bio.OT"
+      ],
+      "journal": "arXiv",
+      "year": 2016,
+      "source": "arXiv",
+      "search_term": {
+        "query": "su yönetimi management",
+        "category": "disease_management",
+        "plant": "su",
+        "disease": "yönetimi",
+        "priority": "high"
+      },
+      "relevance_score": 3.0,
+      "pdf_url": "http://arxiv.org/pdf/1605.05688v1"
+    },
+    {
+      "id": "arxiv_1605.09489v1",
+      "arxiv_id": "1605.09489v1",
+      "title": "Theory on the mechanism of site-specific DNA-protein interactions in the\n  presence of traps",
+      "abstract": "The speed of site-specific binding of transcription factor (TFs) proteins\nwith genomic DNA seems to be strongly retarded by the randomly occurring\nsequence traps. Traps are those DNA sequences sharing significant similarity\nwith the original specific binding sites. It is an intriguing question how the\nnaturally occurring TFs and their specific binding sites are designed to manage\nthe retarding effects of such randomly occurring traps. We develop a simple\nrandom walk model on the site-specific binding of TFs with genomic DNA in the\npresence of sequence traps. Our dynamical model predicts that (a) the retarding\neffects of traps will be minimum when the traps are arranged around the\nspecific binding site such that there is a negative correlation between the\nbinding strength of TFs with traps and the distance of traps from the specific\nbinding site and (b) the retarding effects of sequence traps can be appeased by\nthe condensed conformational state of DNA. Our computational analysis results\non the distribution of sequence traps around the putative binding sites of\nvarious TFs in mouse and human genome clearly agree well the theoretical\npredictions. We propose that the distribution of traps can be used as an\nadditional metric to efficiently identify the specific binding sites of TFs on\ngenomic DNA.",
+      "authors": [
+        "G. Niranjani",
+        "R. Murugan"
+      ],
+      "categories": [
+        "q-bio.SC",
+        "q-bio.BM"
+      ],
+      "journal": "arXiv",
+      "year": 2016,
+      "source": "arXiv",
+      "search_term": {
+        "query": "su yönetimi management",
+        "category": "disease_management",
+        "plant": "su",
+        "disease": "yönetimi",
+        "priority": "high"
+      },
+      "relevance_score": 3.0,
+      "pdf_url": "http://arxiv.org/pdf/1605.09489v1"
+    },
+    {
+      "id": "arxiv_1911.06684v1",
+      "arxiv_id": "1911.06684v1",
+      "title": "New Approaches in Synthetic Biology: Abiotic Organelles and Artificial\n  Cells Powered and Controlled by Light",
+      "abstract": "One of the major goals of nanobionics and bottom-up synthetic biology is the\ndevelopment of artificial cell organelles for the creation of cell-like\nstructures operating similar to biological systems with a minimalistic set of\nbuilding blocks. In the present contribution, versatile strategies to develop\nartificial reaction centers for novel photoautotrophic processes and to provide\nfully biocompatible synthetic enzyme counterparts for stepwise sustrate\nphoto-conversion in abiotic organelles are summarized. This unique approach has\nthe potential to create artificial cell-like systems that can be readily\nmanipulated by light providing both energy input and fundamental regulatory\nfunctions.",
+      "authors": [
+        "Günther Knör"
+      ],
+      "categories": [
+        "q-bio.SC",
+        "q-bio.BM",
+        "q-bio.MN",
+        "q-bio.TO"
+      ],
+      "journal": "arXiv",
+      "year": 2019,
+      "source": "arXiv",
+      "search_term": {
+        "query": "su yönetimi control",
+        "category": "disease_control",
+        "plant": "su",
+        "disease": "yönetimi",
+        "priority": "high"
+      },
+      "relevance_score": 4.0,
+      "pdf_url": "http://arxiv.org/pdf/1911.06684v1"
+    },
+    {
+      "id": "arxiv_1512.09160v1",
+      "arxiv_id": "1512.09160v1",
+      "title": "Modelling the Role of Nitric Oxide in Cerebral Autoregulation",
+      "abstract": "Malfunction of the system which regulates the bloodflow in the brain is a\nmajor cause of stroke and dementia, costing many lives and many billions of\npounds each year in the UK alone. This regulatory system, known as cerebral\nautoregulation, has been the subject of much experimental and mathematical\ninvestigation yet our understanding of it is still quite limited. One area in\nwhich our understanding is particularly lacking is that of the role of nitric\noxide, understood to be a potent vasodilator. The interactions of nitric oxide\nwith the better understood myogenic response remain un-modelled and poorly\nunderstood. In this thesis we present a novel model of the arteriolar control\nmechanism, comprising a mixture of well-established and new models of\nindividual processes, brought together for the first time. We show that this\nmodel is capable of reproducing experimentally observed behaviour very closely\nand go on to investigate its stability in the context of the vasculature of the\nwhole brain. In conclusion we find that nitric oxide, although it plays a\ncentral role in determining equilibrium vessel radius, is unimportant to the\ndynamics of the system and its responses to variation in arterial blood\npressure. We also find that the stability of the system is very sensitive to\nthe dynamics of Ca$^{2+}$ within the muscle cell, and that self-sustaining\nCa$^{2+}$ waves are not necessary to cause whole-vessel radius oscillations\nconsistent with vasomotion.",
+      "authors": [
+        "Mark Catherall"
+      ],
+      "categories": [
+        "q-bio.TO",
+        "q-bio.CB",
+        "q-bio.QM",
+        "q-bio.SC"
+      ],
+      "journal": "arXiv",
+      "year": 2015,
+      "source": "arXiv",
+      "search_term": {
+        "query": "su yönetimi control",
+        "category": "disease_control",
+        "plant": "su",
+        "disease": "yönetimi",
+        "priority": "high"
+      },
+      "relevance_score": 4.0,
+      "pdf_url": "http://arxiv.org/pdf/1512.09160v1"
+    },
+    {
+      "id": "arxiv_2008.09225v2",
+      "arxiv_id": "2008.09225v2",
+      "title": "A matter of time: Using dynamics and theory to uncover mechanisms of\n  transcriptional bursting",
+      "abstract": "Eukaryotic transcription generally occurs in bursts of activity lasting\nminutes to hours; however, state-of-the-art measurements have revealed that\nmany of the molecular processes that underlie bursting, such as transcription\nfactor binding to DNA, unfold on timescales of seconds. This temporal\ndisconnect lies at the heart of a broader challenge in physical biology of\npredicting transcriptional outcomes and cellular decision-making from the\ndynamics of underlying molecular processes. Here, we review how new dynamical\ninformation about the processes underlying transcriptional control can be\ncombined with theoretical models that predict not only averaged transcriptional\ndynamics, but also their variability, to formulate testable hypotheses about\nthe molecular mechanisms underlying transcriptional bursting and control.",
+      "authors": [
+        "Nicholas C. Lammers",
+        "Yang Joon Kim",
+        "Jiaxi Zhao",
+        "Hernan G. Garcia"
+      ],
+      "categories": [
+        "q-bio.SC",
+        "q-bio.CB",
+        "q-bio.MN",
+        "q-bio.QM"
+      ],
+      "journal": "arXiv",
+      "year": 2020,
+      "source": "arXiv",
+      "search_term": {
+        "query": "su yönetimi control",
+        "category": "disease_control",
+        "plant": "su",
+        "disease": "yönetimi",
+        "priority": "high"
+      },
+      "relevance_score": 4.0,
+      "pdf_url": "http://arxiv.org/pdf/2008.09225v2"
+    },
+    {
+      "id": "arxiv_2211.01313v1",
+      "arxiv_id": "2211.01313v1",
+      "title": "Closing the Loop on Morphogenesis: A Mathematical Model of Morphogenesis\n  by Closed-Loop Reaction-Diffusion",
+      "abstract": "Morphogenesis, the establishment and repair of emergent complex anatomy by\ngroups of cells, is a fascinating and biomedically-relevant problem. One of its\nmost fascinating aspects is that a developing embryo can reliably recover from\ndisturbances, such as splitting into twins. While this reliability implies some\ntype of goal-seeking error minimization over a morphogenic field, there are\nmany gaps with respect to detailed, constructive models of such a process being\nused to implement the collective intelligence of cellular swarms. We describe a\nclosed-loop negative-feedback system for creating reaction-diffusion (RD)\npatterns with high reliability. It uses a cellular automaton to characterize a\nmorphogen pattern, then compares it to a goal and adjusts accordingly,\nproviding a framework for modeling anatomical homeostasis and robust generation\nof target morphologies. Specifically, we create a RD pattern with N\nrepetitions, where N is easily changeable. Furthermore, the individual\nrepetitions of the RD pattern can be easily stretched or shrunk under genetic\ncontrol to create, e.g., some morphological features larger than others.\nFinally, the cellular automaton uses a computation wave that scans the\nmorphogen pattern unidirectionally to characterize the features that the\nnegative feedback then controls. By taking advantage of a prior process\nasymmetrically establishing planar polarity (e.g., head vs. tail), our\nautomaton is greatly simplified. This work contributes to the exciting effort\nof understanding design principles of morphological computation, which can be\nused to understand evolved developmental mechanisms, manipulate them in\nregenerative medicine settings, or embed a degree of synthetic intelligence\ninto novel bioengineered constructs.",
+      "authors": [
+        "Joel Grodstein",
+        "Michael Levin"
+      ],
+      "categories": [
+        "q-bio.MN",
+        "q-bio.CB",
+        "q-bio.QM",
+        "q-bio.SC"
+      ],
+      "journal": "arXiv",
+      "year": 2022,
+      "source": "arXiv",
+      "search_term": {
+        "query": "su yönetimi control",
+        "category": "disease_control",
+        "plant": "su",
+        "disease": "yönetimi",
+        "priority": "high"
+      },
+      "relevance_score": 4.0,
+      "pdf_url": "http://arxiv.org/pdf/2211.01313v1"
+    },
+    {
+      "id": "arxiv_1608.06146v1",
+      "arxiv_id": "1608.06146v1",
+      "title": "The Role of the Hes1 Crosstalk Hub in Notch-Wnt Interactions of the\n  Intestinal Crypt",
+      "abstract": "The Notch pathway plays a vital role in determining whether cells in the\nintestinal epithelium adopt a secretory or an absorptive phenotype. Cell fate\nspecification is coordinated via Notch's interaction with the canonical Wnt\npathway. Here, we propose a new mathematical model of the Notch and Wnt\npathways, in which the Hes1 promoter acts as a hub for pathway crosstalk.\nComputational simulations of the model can assist in understanding how healthy\nintestinal tissue is maintained, and predict the likely consequences of\nbiochemical knockouts upon cell fate selection processes. Chemical reaction\nnetwork theory (CRNT) is a powerful, generalised framework which assesses the\ncapacity of our model for monostability or multistability, by analysing\nproperties of the underlying network structure without recourse to specific\nparameter values or functional forms for reaction rates. CRNT highlights the\nrole of beta-catenin in stabilising the Notch pathway and damping oscillations,\ndemonstrating that Wnt-mediated actions on the Hes1 promoter can induce\ndynamical transitions in the Notch system, from multistability to\nmonostability. Time-dependent model simulations of cell pairs reveal the\nstabilising influence of Wnt upon the Notch pathway, in which beta-catenin- and\nDsh-mediated action on the Hes1 promoter are key in shaping the subcellular\ndynamics. Where Notch-mediated transcription of Hes1 dominates, there is Notch\noscillation and maintenance of fate flexibility; Wnt-mediated transcription of\nHes1 favours bistability akin to cell fate selection. Cells could therefore\nregulate the proportion of Wnt- and Notch-mediated control of the Hes1 promoter\nto coordinate the timing of cell fate selection as they migrate through the\nintestinal epithelium and are subject to reduced Wnt stimuli.",
+      "authors": [
+        "Sophie K. Kay",
+        "Heather A. Harrington",
+        "Sarah Shepherd",
+        "Keith Brennan",
+        "Trevor Dale",
+        "James M. Osborne",
+        "David J. Gavaghan",
+        "Helen M. Byrne"
+      ],
+      "categories": [
+        "q-bio.SC",
+        "q-bio.CB",
+        "q-bio.MN",
+        "q-bio.QM"
+      ],
+      "journal": "arXiv",
+      "year": 2016,
+      "source": "arXiv",
+      "search_term": {
+        "query": "su yönetimi control",
+        "category": "disease_control",
+        "plant": "su",
+        "disease": "yönetimi",
+        "priority": "high"
+      },
+      "relevance_score": 4.0,
+      "pdf_url": "http://arxiv.org/pdf/1608.06146v1"
+    },
+    {
+      "id": "arxiv_1705.09708v1",
+      "arxiv_id": "1705.09708v1",
+      "title": "Characterizing steady states of genome-scale metabolic networks in\n  continuous cell cultures",
+      "abstract": "We present a model for continuous cell culture coupling intra-cellular\nmetabolism to extracellular variables describing the state of the bioreactor,\ntaking into account the growth capacity of the cell and the impact of toxic\nbyproduct accumulation. We provide a method to determine the steady states of\nthis system that is tractable for metabolic networks of arbitrary complexity.\nWe demonstrate our approach in a toy model first, and then in a genome-scale\nmetabolic network of the Chinese hamster ovary cell line, obtaining results\nthat are in qualitative agreement with experimental observations. More\nimportantly, we derive a number of consequences from the model that are\nindependent of parameter values. First, that the ratio between cell density and\ndilution rate is an ideal control parameter to fix a steady state with desired\nmetabolic properties invariant across perfusion systems. This conclusion is\nrobust even in the presence of multi-stability, which is explained in our model\nby the negative feedback loop on cell growth due to toxic byproduct\naccumulation. Moreover, a complex landscape of steady states in continuous cell\nculture emerges from our simulations, including multiple metabolic switches,\nwhich also explain why cell-line and media benchmarks carried out in batch\nculture cannot be extrapolated to perfusion. On the other hand, we predict\ninvariance laws between continuous cell cultures with different parameters. A\npractical consequence is that the chemostat is an ideal experimental model for\nlarge-scale high-density perfusion cultures, where the complex landscape of\nmetabolic transitions is faithfully reproduced. Thus, in order to actually\nreflect the expected behavior in perfusion, performance benchmarks of\ncell-lines and culture media should be carried out in a chemostat.",
+      "authors": [
+        "Jorge Fernandez-de-Cossio-Diaz",
+        "Kalet León",
+        "Roberto Mulet"
+      ],
+      "categories": [
+        "q-bio.MN",
+        "q-bio.CB",
+        "q-bio.PE",
+        "q-bio.SC"
+      ],
+      "journal": "arXiv",
+      "year": 2017,
+      "source": "arXiv",
+      "search_term": {
+        "query": "su yönetimi control",
+        "category": "disease_control",
+        "plant": "su",
+        "disease": "yönetimi",
+        "priority": "high"
+      },
+      "relevance_score": 4.0,
+      "pdf_url": "http://arxiv.org/pdf/1705.09708v1"
+    },
+    {
+      "id": "arxiv_1907.03891v2",
+      "arxiv_id": "1907.03891v2",
+      "title": "Quantitative Immunology for Physicists",
+      "abstract": "The adaptive immune system is a dynamical, self-organized multiscale system\nthat protects vertebrates from both pathogens and internal irregularities, such\nas tumours. For these reason it fascinates physicists, yet the multitude of\ndifferent cells, molecules and sub-systems is often also petrifying. Despite\nthis complexity, as experiments on different scales of the adaptive immune\nsystem become more quantitative, many physicists have made both theoretical and\nexperimental contributions that help predict the behaviour of ensembles of\ncells and molecules that participate in an immune response. Here we review some\nrecent contributions with an emphasis on quantitative questions and\nmethodologies. We also provide a more general methods section that presents\nsome of the wide array of theoretical tools used in the field.",
+      "authors": [
+        "Grégoire Altan-Bonnet",
+        "Thierry Mora",
+        "Aleksandra M. Walczak"
+      ],
+      "categories": [
+        "q-bio.QM",
+        "q-bio.GN",
+        "q-bio.MN",
+        "q-bio.SC"
+      ],
+      "journal": "arXiv",
+      "year": 2019,
+      "source": "arXiv",
+      "search_term": {
+        "query": "iklim adaptasyonu pathogen",
+        "category": "pathogen_study",
+        "plant": "iklim",
+        "disease": "adaptasyonu",
+        "priority": "medium"
+      },
+      "relevance_score": 1.0,
+      "pdf_url": "http://arxiv.org/pdf/1907.03891v2"
+    },
+    {
+      "id": "arxiv_1410.0649v1",
+      "arxiv_id": "1410.0649v1",
+      "title": "Network analysis reveals a potentially 'evil' alliance of opportunistic\n  pathogens inhibited by a cooperative network in human milk bacterial\n  communities",
+      "abstract": "The critical importance of human milk to infants and even human civilization\nhas been well established. Although the human milk microbiome has received\nincreasing attention with the expansion of research on the human microbiome,\nour understanding of the milk microbiome has been limited to cataloguing OTUs\nand computation of community diversity indexes. To the best of our knowledge,\nthere has been no report on the bacterial interactions within the human milk\nmicrobiome. To bridge this gap, we reconstructed a milk bacterial community\nnetwork with the data from Hunt et al (2011), which is the largest 16S-rRNA\nsequence data set of human milk microbiome available to date. Our analysis\nrevealed that the milk microbiome network consists of two disconnected\nsub-networks. One sub-network is a fully connected complete graph consisting of\nseven genera as nodes and all of its pair-wise interactions among the bacteria\nare facilitative or cooperative. In contrast, the interactions in the other\nsub-network of 8 nodes are mixed but dominantly cooperative. Somewhat\nsurprisingly, the only 'non-cooperative' nodes in the second sub-network are\nmutually cooperative Staphylococcus and Corynebacterium, genera that include\nsome opportunistic pathogens. This potentially 'evil' alliance between\nStaphylococcus and Corynebacterium could be inhibited by the remaining nodes\nwho cooperate with one another in the second sub-network. We postulate that the\n'confrontation' between the 'evil' alliance and 'benign' alliance in human milk\nmicrobiome should have important health implications to lactating women and\ntheir infants and shifting the balance between the two alliances may be\nresponsible for dysbiosis of the milk microbiome that permits mastitis. A\nrelated study focusing on ecological analysis was reported at\n(http://www.eurekalert.org/pub_releases/2014-09/scp-ahb090214.php).",
+      "authors": [
+        "Zhanshan Ma",
+        "Qiong Guan",
+        "Chengxi Ye",
+        "Chengchen Zhang",
+        "James A. Foster",
+        "Larry J. Forney"
+      ],
+      "categories": [
+        "q-bio.QM",
+        "q-bio.GN",
+        "q-bio.MN",
+        "q-bio.PE"
+      ],
+      "journal": "arXiv",
+      "year": 2014,
+      "source": "arXiv",
+      "search_term": {
+        "query": "iklim adaptasyonu pathogen",
+        "category": "pathogen_study",
+        "plant": "iklim",
+        "disease": "adaptasyonu",
+        "priority": "medium"
+      },
+      "relevance_score": 1.0,
+      "pdf_url": "http://arxiv.org/pdf/1410.0649v1"
+    },
+    {
+      "id": "arxiv_2004.02631v4",
+      "arxiv_id": "2004.02631v4",
+      "title": "Reaction Cycles of Halogen Species in the Immune Defense: Implications\n  for Human Health and Diseases and the Pathology and Treatment of COVID-19",
+      "abstract": "There is no vaccine or specific antiviral treatment for COVID-19. One current\nfocus is drug repurposing research, but those drugs have limited therapeutic\nefficacies and known adverse effects. The pathology of COVID-19 is essentially\nunknown. It is therefore challenging to discover a successful treatment to be\napproved for clinical use. This paper addresses several key biological\nprocesses of reactive oxygen, halogen and nitrogen species (ROS, RHS and RNS)\nthat play crucial physiological roles in organisms from plants to humans. These\ninclude why superoxide dismutases, the enzymes to catalyze the formation of\nH2O2, are required for protecting ROS-induced injury in cell metabolism, why\nthe amount of ROS/RNS produced by ionizing radiation at clinically relevant\ndoses is ~1000 fold lower than the endogenous ROS/RNS level routinely produced\nin the cell and why a low level of endogenous RHS plays a crucial role in\nphagocytosis for immune defense. Herein we propose a plausible amplification\nmechanism in immune defense: ozone-depleting-like halogen cyclic reactions\nenhancing RHS effects are responsible for all the mentioned physiological\nfunctions, which are activated by H2O2 and deactivated by NO signaling\nmolecule. Our results show that the reaction cycles can be repeated thousands\nof times and amplify the RHS pathogen-killing (defense) effects by 100,000 fold\nin phagocytosis, resembling the cyclic ozone-depleting reactions in the\nstratosphere. It is unraveled that H2O2 is a required protective signaling\nmolecule (angel) in the defense system for human health and its dysfunction can\ncause many diseases or conditions such as autoimmune disorders, aging and\ncancer. We also identify a class of potent drugs for effective treatment of\ninvading pathogens such as HIV and SARS-CoV-2 (COVID-19), cancer and other\ndiseases, and provide a molecular mechanism of action of the drugs or\ncandidates.",
+      "authors": [
+        "Qing-Bin Lu"
+      ],
+      "categories": [
+        "q-bio.CB",
+        "q-bio.BM",
+        "q-bio.SC"
+      ],
+      "journal": "arXiv",
+      "year": 2020,
+      "source": "arXiv",
+      "search_term": {
+        "query": "iklim adaptasyonu pathogen",
+        "category": "pathogen_study",
+        "plant": "iklim",
+        "disease": "adaptasyonu",
+        "priority": "medium"
+      },
+      "relevance_score": 1.0,
+      "pdf_url": "http://arxiv.org/pdf/2004.02631v4"
+    },
+    {
+      "id": "arxiv_2003.12773v1",
+      "arxiv_id": "2003.12773v1",
+      "title": "Knowledge synthesis from 100 million biomedical documents augments the\n  deep expression profiling of coronavirus receptors",
+      "abstract": "The COVID-19 pandemic demands assimilation of all available biomedical\nknowledge to decode its mechanisms of pathogenicity and transmission. Despite\nthe recent renaissance in unsupervised neural networks for decoding\nunstructured natural languages, a platform for the real-time synthesis of the\nexponentially growing biomedical literature and its comprehensive triangulation\nwith deep omic insights is not available. Here, we present the nferX platform\nfor dynamic inference from over 45 quadrillion possible conceptual associations\nextracted from unstructured biomedical text, and their triangulation with\nSingle Cell RNA-sequencing based insights from over 25 tissues. Using this\nplatform, we identify intersections between the pathologic manifestations of\nCOVID-19 and the comprehensive expression profile of the SARS-CoV-2 receptor\nACE2. We find that tongue keratinocytes and olfactory epithelial cells are\nlikely under-appreciated targets of SARS-CoV-2 infection, correlating with\nreported loss of sense of taste and smell as early indicators of COVID-19\ninfection, including in otherwise asymptomatic patients. Airway club cells,\nciliated cells and type II pneumocytes in the lung, and enterocytes of the gut\nalso express ACE2. This study demonstrates how a holistic data science platform\ncan leverage unprecedented quantities of structured and unstructured publicly\navailable data to accelerate the generation of impactful biological insights\nand hypotheses.",
+      "authors": [
+        "AJ Venkatakrishnan",
+        "Arjun Puranik",
+        "Akash Anand",
+        "David Zemmour",
+        "Xiang Yao",
+        "Xiaoying Wu",
+        "Ramakrishna Chilaka",
+        "Dariusz K. Murakowski",
+        "Kristopher Standish",
+        "Bharathwaj Raghunathan",
+        "Tyler Wagner",
+        "Enrique Garcia-Rivera",
+        "Hugo Solomon",
+        "Abhinav Garg",
+        "Rakesh Barve",
+        "Anuli Anyanwu-Ofili",
+        "Najat Khan",
+        "Venky Soundararajan"
+      ],
+      "categories": [
+        "q-bio.GN",
+        "cs.IR",
+        "q-bio.BM",
+        "q-bio.TO"
+      ],
+      "journal": "arXiv",
+      "year": 2020,
+      "source": "arXiv",
+      "search_term": {
+        "query": "iklim adaptasyonu pathogen",
+        "category": "pathogen_study",
+        "plant": "iklim",
+        "disease": "adaptasyonu",
+        "priority": "medium"
+      },
+      "relevance_score": 1.0,
+      "pdf_url": "http://arxiv.org/pdf/2003.12773v1"
+    },
+    {
+      "id": "arxiv_2001.06979v1",
+      "arxiv_id": "2001.06979v1",
+      "title": "Dietary Restriction of Amino Acids for Cancer Therapy",
+      "abstract": "Biosyntheses of proteins, nucleotides and fatty acids, are essential for the\nmalignant proliferation and survival of cancer cells. Cumulating research\nfindings show that amino acid restrictions are potential strategies for cancer\ninterventions. Meanwhile, dietary strategies are popular among cancer patients.\nHowever, there is still lacking solid rationale to clarify what is the best\nstrategy, why and how it is. Here, integrated analyses and comprehensive\nsummaries for the abundances, signalling and functions of amino acids in\nproteomes, metabolism, immunity and food compositions, suggest that,\nintermittent fasting or intermittent dietary lysine restriction with normal\nmaize as an intermittent staple food for days or weeks, might have the value\nand potential for cancer prevention or therapy. Moreover, dietary supplements\nwere also discussed for cancer cachexia including dietary immunomodulatory.",
+      "authors": [
+        "Jian-Sheng Kang"
+      ],
+      "categories": [
+        "q-bio.BM",
+        "q-bio.MN",
+        "q-bio.SC"
+      ],
+      "journal": "arXiv",
+      "year": 2020,
+      "source": "arXiv",
+      "search_term": {
+        "query": "verim artırma prevention",
+        "category": "prevention",
+        "plant": "verim",
+        "disease": "artırma",
+        "priority": "medium"
+      },
+      "relevance_score": 3.0,
+      "pdf_url": "http://arxiv.org/pdf/2001.06979v1"
+    },
+    {
+      "id": "arxiv_1304.4573v1",
+      "arxiv_id": "1304.4573v1",
+      "title": "The MIp Toolset: an efficient algorithm for calculating Mutual\n  Information in protein alignments",
+      "abstract": "Background: Coevolution within a protein family is often predicted using\nstatistics that measure the degree of covariation between positions in the\nprotein sequence. Mutual Information is a measure of dependence between two\nrandom variables that has been used extensively to predict intra-protein\ncoevolution.\n  Results: Here we provide an algorithm for the efficient calculation of Mutual\nInformation within a protein family. The algorithm uses linked lists which are\ndirectly accessed by a pointer array. The linked list allows efficient storage\nof sparse count data caused by protein conservation. The direct access array of\npointers prevents the linked list from being traversed each time it is\nmodified.\n  Conclusions: This algorithm is implemented in the software MIpToolset, but\ncould also be easily implemented in other Mutual Information based standalone\nsoftware or web servers. The current implementation in the MIpToolset has been\ncritical in large-scale protein family analysis and real-time coevolution\ncalculations during alignment editing and curation.\n  The MIpToolset is available at: https://sourceforge.net/projects/miptoolset/",
+      "authors": [
+        "Russell J. Dickson",
+        "Gregory B. Gloor"
+      ],
+      "categories": [
+        "q-bio.PE",
+        "q-bio.BM",
+        "q-bio.GN",
+        "q-bio.QM"
+      ],
+      "journal": "arXiv",
+      "year": 2013,
+      "source": "arXiv",
+      "search_term": {
+        "query": "verim artırma prevention",
+        "category": "prevention",
+        "plant": "verim",
+        "disease": "artırma",
+        "priority": "medium"
+      },
+      "relevance_score": 1.0,
+      "pdf_url": "http://arxiv.org/pdf/1304.4573v1"
+    },
+    {
+      "id": "arxiv_1807.10137v1",
+      "arxiv_id": "1807.10137v1",
+      "title": "A simple device for microinjections, manipulations and measurements\n  using an electromorphological chip under microinterferometric control of the\n  interface and membrane processes at the thickness range of 5-1000 nm at\n  different angles",
+      "abstract": "Micromanipulations, perfusions and measurements performed using glass\nmicroelectrodes filled with an electrolyte is a conventional technique for\nexperimental morphological and membrane electrophysiological studies at a\nsingle cell and membrane surface level. The typical (effective) diameter of the\nend of the glass microelectrode is from 500 up to less than 100 nm, which\nprevents one from observing it using a standard optical microscope in\naccordance with the optical resolution criteria, since the diameter less than\n500 nm is indistinguishable within the interference zone. Microprocessor\nprogramming of the puller (microforge) that provides pulling and tearing allows\nto obtain in certain regimes the adjusted diameter and shape of the\nmicropipette tip, although this result is not fully controlled due to the above\nlimitations. In this connection it is necessary to design the control devices\nfor the micropipette tips both at the preparation and operation stages\n(intracellular or extracellular insertion). This method also should provide\nvisualization of the processes occurring upon interaction of the microelectrode\ntip with the cell in real time, depending on the electrode type and state,\nwhich allows to level the artifacts arising with the systematic error frequency\nfrom the uncontrolled operation of the micropipette tip after different ways of\nthe microelectrode filling with the electrolyte. We propose an installation\nscheme that solves the above problems by means of introducing an\ninterferometric device for microscopic control of the microelectrode and\nmicromanipulator or microperfusor, for the first time for a given type of\noptical instruments combined with the interferometric optical scheme.",
+      "authors": [
+        "O. V. Gradov",
+        "P. A. Nasirov",
+        "A. A. Scrynnic",
+        "A. G. Jablokov"
+      ],
+      "categories": [
+        "q-bio.SC",
+        "cond-mat.soft",
+        "q-bio.CB",
+        "q-bio.NC",
+        "92C17, 92C37, 92C35, 92C55, 92C45, 92C05, 92B25, 92E20, 92C20"
+      ],
+      "journal": "arXiv",
+      "year": 2018,
+      "source": "arXiv",
+      "search_term": {
+        "query": "verim artırma prevention",
+        "category": "prevention",
+        "plant": "verim",
+        "disease": "artırma",
+        "priority": "medium"
+      },
+      "relevance_score": 1.0,
+      "pdf_url": "http://arxiv.org/pdf/1807.10137v1"
+    },
+    {
+      "id": "arxiv_1611.10042v1",
+      "arxiv_id": "1611.10042v1",
+      "title": "Lipidomic approach for stratification of Acute Myeloid Leukemia patients",
+      "abstract": "The pathogenesis and progression of many tumors, including hematologic\nmalignancies is highly dependent on enhanced lipogenesis. De novo fatty-acid\nsynthesis permits accelerated proliferation of tumor cells by providing\nstructural components to build the membranes. It may also lead to alterations\nof physicochemical properties of the formed membranes, which can have an impact\non signaling or even increase resistance to drugs in cancer cells. Cancer\ntype-specific lipid profiles would allow understanding the actual effects of\nlipid changes and therefore could potentially serve as fingerprints for\nindividual tumors and be explored as diagnostic markers. We have used shotgun\nMS approach to identify lipid patterns in different types of acute myeloid\nleukemia (AML) patients that either show no karyotype changes or belong to\nt(8;21) or inv16 types. The observed differences in lipidomes of t(8;21) and\ninv(16) patients, as compared to AML patients without karyotype changes,\nconcentrate mostly on substantial modulation of ceramides/sphingolipids\nsynthesis. Also significant changes in the physicochemical properties of the\nmembranes, between the t(8;21) and the other patients, were noted that were\nrelated to a marked alteration in the saturation levels of lipids. The revealed\ndifferences in lipid profiles of various AML types increase our understanding\nof the affected biochemical pathways and can potentially serve as diagnostic\ntools.",
+      "authors": [
+        "Christian Thiede",
+        "Gerhard Ehninger",
+        "Kai Simons",
+        "Michal Grzybek",
+        "Adam Stefanko"
+      ],
+      "categories": [
+        "q-bio.TO",
+        "q-bio.BM",
+        "q-bio.CB",
+        "q-bio.MN"
+      ],
+      "journal": "arXiv",
+      "year": 2016,
+      "source": "arXiv",
+      "search_term": {
+        "query": "iklim koşulları resistance",
+        "category": "resistance",
+        "plant": "iklim",
+        "disease": "koşulları",
+        "priority": "medium"
+      },
+      "relevance_score": 2.0,
+      "pdf_url": "http://arxiv.org/pdf/1611.10042v1"
+    },
+    {
+      "id": "arxiv_1803.04500v2",
+      "arxiv_id": "1803.04500v2",
+      "title": "The hypotensive effect of activated apelin receptor is correlated with\n  \\b{eta}-arrestin recruitment",
+      "abstract": "The apelinergic system is an important player in the regulation of both\nvascular tone and cardiovascular function, making this physiological system an\nattractive target for drug development for hypertension, heart failure and\nischemic heart disease. Indeed, apelin exerts a positive inotropic effect in\nhumans whilst reducing peripheral vascular resistance. In this study, we\ninvestigated the signaling pathways through which apelin exerts its hypotensive\naction. We synthesized a series of apelin-13 analogs whereby the C-terminal\nPhe13 residue was replaced by natural or unnatural amino acids. In HEK293 cells\nexpressing APJ, we evaluated the relative efficacy of these compounds to\nactivate G{\\alpha}i1 and G{\\alpha}oA G-proteins, recruit \\b{eta}-arrestins 1\nand 2 (\\b{eta}arrs), and inhibit cAMP production. Calculating the transduction\nratio for each pathway allowed us to identify several analogs with distinct\nsignaling profiles. Furthermore, we found that these analogs delivered i.v. to\nSprague-Dawley rats exerted a wide range of hypotensive responses. Indeed, two\ncompounds lost their ability to lower blood pressure, while other analogs\nsignificantly reduced blood pressure as apelin-13. Interestingly, analogs that\ndid not lower blood pressure were less effective at recruiting \\b{eta}arrs.\nFinally, using Spearman correlations, we established that the hypotensive\nresponse was significantly correlated with \\b{eta}arr recruitment but not with\nG protein- dependent signaling. In conclusion, our results demonstrated that\nthe \\b{eta}arr recruitment potency is involved in the hypotensive efficacy of\nactivated APJ.",
+      "authors": [
+        "Élie Besserer-Offroy",
+        "Patrick Bérubé",
+        "Jérôme Côté",
+        "Alexandre Murza",
+        "Jean-Michel Longpré",
+        "Robert Dumaine",
+        "Olivier Lesur",
+        "Mannix Auger-Messier",
+        "Richard Leduc",
+        "Éric Marsault",
+        "Philippe Sarret"
+      ],
+      "categories": [
+        "q-bio.MN",
+        "q-bio.BM",
+        "q-bio.CB",
+        "q-bio.QM"
+      ],
+      "journal": "arXiv",
+      "year": 2018,
+      "source": "arXiv",
+      "search_term": {
+        "query": "iklim koşulları resistance",
+        "category": "resistance",
+        "plant": "iklim",
+        "disease": "koşulları",
+        "priority": "medium"
+      },
+      "relevance_score": 2.0,
+      "pdf_url": "http://arxiv.org/pdf/1803.04500v2"
+    },
+    {
+      "id": "arxiv_2301.08996v2",
+      "arxiv_id": "2301.08996v2",
+      "title": "Are physiological oscillations 'physiological'?",
+      "abstract": "Despite widespread and striking examples of physiological oscillations, their\nfunctional role is often unclear. Even glycolysis, the paradigm example of\noscillatory biochemistry, has seen questions about its oscillatory function.\nHere, we take a systems approach to summarize evidence that oscillations play\ncritical physiological roles. Oscillatory behavior enables systems to avoid\ndesensitization, to avoid chronically high and therefore toxic levels of\nchemicals, and to become more resistant to noise. Oscillation also enables\ncomplex physiological systems to reconcile incompatible conditions such as\noxidation and reduction, by cycling between them, and to synchronize the\noscillations of many small units into one large effect. In pancreatic beta\ncells, glycolytic oscillations are in synchrony with calcium and mitochondrial\noscillations to drive pulsatile insulin release, which is pivotal for the liver\nto regulate blood glucose dynamics. In addition, oscillation can keep\nbiological time, essential for embryonic development in promoting cell\ndiversity and pattern formation. The functional importance of oscillatory\nprocesses requires a rethinking of the traditional doctrine of homeostasis,\nholding that physiological quantities are maintained at constant equilibrium\nvalues, a view that has largely failed us in the clinic. A more dynamic\napproach will enable us to view health and disease through a new light and\ninitiate a paradigm shift in treating diseases, including depression and\ncancer. This modern synthesis also takes a deeper look into the mechanisms that\ncreate, sustain and abolish oscillatory processes, which requires the language\nof nonlinear dynamics, well beyond the linearization techniques of equilibrium\ncontrol theory.",
+      "authors": [
+        "Lingyun Xiong",
+        "Alan Garfinkel"
+      ],
+      "categories": [
+        "q-bio.TO",
+        "q-bio.CB",
+        "q-bio.SC"
+      ],
+      "journal": "arXiv",
+      "year": 2023,
+      "source": "arXiv",
+      "search_term": {
+        "query": "iklim koşulları resistance",
+        "category": "resistance",
+        "plant": "iklim",
+        "disease": "koşulları",
+        "priority": "medium"
+      },
+      "relevance_score": 1.0,
+      "pdf_url": "http://arxiv.org/pdf/2301.08996v2"
+    },
+    {
+      "id": "arxiv_1901.00099v2",
+      "arxiv_id": "1901.00099v2",
+      "title": "Microglial memory of early life stress and inflammation: susceptibility\n  to neurodegeneration in adulthood",
+      "abstract": "We review evidence supporting the role of early life programming in the\nsusceptibility for adult neurodegenerative diseases while highlighting\nquestions and proposing avenues for future research to advance our\nunderstanding of this fundamental process. The key elements of this phenomenon\nare chronic stress, neuroinflammation triggering microglial polarization,\nmicroglial memory and their connection to neurodegeneration. We review the\nmediating mechanisms which may function as early biomarkers of increased\nsusceptibility for neurodegeneration. Can we devise novel early life-modifying\ninterventions to steer developmental trajectories to their optimum?",
+      "authors": [
+        "Paula Desplats",
+        "Ashley M. Gutierrez",
+        "Marta C. Antonelli",
+        "Martin G. Frasch"
+      ],
+      "categories": [
+        "q-bio.TO",
+        "q-bio.CB"
+      ],
+      "journal": "arXiv",
+      "year": 2019,
+      "source": "arXiv",
+      "search_term": {
+        "query": "biomarkers plant stress",
+        "category": "methodology",
+        "plant": "general",
+        "disease": "general",
+        "priority": "medium"
+      },
+      "relevance_score": 2.0,
+      "pdf_url": "http://arxiv.org/pdf/1901.00099v2"
+    },
+    {
+      "id": "arxiv_2203.14201v2",
+      "arxiv_id": "2203.14201v2",
+      "title": "Cryopreservation of seeds of blue waterlily (Nymphaea caerulea) using\n  glutathione adding plant vitrification solution, PVS+",
+      "abstract": "Nymphaea caerulea is a valuable freshwater aquatic plant, not only because of\nits ornamental value but also its extractions for chemical and medical uses. It\nis necessary to store its seeds as backup resources. Cryopreservation is the\nreliable, cost-effective method for long-term preservation of botanical genetic\nbanks, especially for recalcitrant plants. In this study, we demonstrated that\ndue to unable to tolerate desiccation and low-temperature, N. caerulea is\nrecalcitrant. Since viability was lost before 6 months storage, N. caerulea\nseeds were not appropriate to long-term store by traditional storage method.\nThe only way to long-term store N. caerulea seeds is cryopreservation. However,\nPlant Vitrification Solution 3 (PVS3; 50% w/v sucrose, 50% w/v glycerol), a\ncommonly used plant vitrification solution, was ineffective on N. caerulea\nseeds cryopreservation. The maximum survival rate of cryopreserved seeds\ntreated by PVS3 was only 23%. Oxidative stress induced by reactive oxygen\nspecies (ROS) accumulation within seeds was the reason to cause inefficiency of\nPVS3 treated seeds cryopreservation. We developed a new plant vitrification\nsolution (PVS+), by adding glutathione (GSH) into PVS3. PVS+ rescued the\ninefficiency by decreasing ROS accumulation and elevated survival rate of\ncryopreserved seeds to 97%. Our results showed some inefficiencies of plant\ntissue cryopreservation may be caused by ROS-induced oxidative stress.\nAntioxidants can reduce ROS-induced oxidative stress and improve seeds survival\nafter cryopreservation. In conclusion, N. caerulea seeds were identified as\nrecalcitrant and successfully cryopreserved. Suppressing ROS accumulation\nduring cryopreservation may be a potential strategy to improve survival rate of\nrecalcitrant seeds after cryopreservation.",
+      "authors": [
+        "Chung-Hao Lee"
+      ],
+      "categories": [
+        "q-bio.OT"
+      ],
+      "journal": "arXiv",
+      "year": 2022,
+      "source": "arXiv",
+      "search_term": {
+        "query": "biomarkers plant stress",
+        "category": "methodology",
+        "plant": "general",
+        "disease": "general",
+        "priority": "medium"
+      },
+      "relevance_score": 2.0,
+      "pdf_url": "http://arxiv.org/pdf/2203.14201v2"
+    },
+    {
+      "id": "arxiv_2502.18537v1",
+      "arxiv_id": "2502.18537v1",
+      "title": "Co-Translational mRNA Decay in Plants: Recent advances and future\n  directions",
+      "abstract": "Tight regulation of messenger RNA (mRNA) stability is essential to ensure\naccurate gene expression in response to developmental and environmental cues.\nmRNA stability is controlled by mRNA decay pathways, which have traditionally\nbeen proposed to occur independently of translation. However, the recent\ndiscovery of a co-translational mRNA decay pathway (also known as CTRD) reveals\nthat mRNA translation and decay can be coupled. While being translated, a mRNA\ncan be targeted for degradation. This pathway was first described in yeast and\nrapidly identified in several plant species. This review explores recent\nadvances in our understanding of CTRD in plants, emphasizing its regulation and\nits importance for development and stress response. The different metrics used\nto assess CTRD activity are also presented. Furthermore, this review outlines\nfuture directions to explore the importance of mRNA decay in maintaining mRNA\nhomeostasis in plants.",
+      "authors": [
+        "Jean-Marc Deragon",
+        "Rémy Merret"
+      ],
+      "categories": [
+        "q-bio.OT"
+      ],
+      "journal": "arXiv",
+      "year": 2025,
+      "source": "arXiv",
+      "search_term": {
+        "query": "biomarkers plant stress",
+        "category": "methodology",
+        "plant": "general",
+        "disease": "general",
+        "priority": "medium"
+      },
+      "relevance_score": 2.0,
+      "pdf_url": "http://arxiv.org/pdf/2502.18537v1"
+    },
+    {
+      "id": "arxiv_2408.05119v1",
+      "arxiv_id": "2408.05119v1",
+      "title": "Acto-myosin clusters as active units shaping living matter",
+      "abstract": "Stress generation by the actin cytoskeleton shapes cells and tissues. Despite\nimpressive progress in live imaging and quantitative physical descriptions of\ncytoskeletal network dynamics, the connection between processes at molecular\nscales and cell-scale spatio-temporal patterns is still unclear. Here we review\nstudies reporting acto-myosin clusters of micrometer size and with lifetimes of\nseveral minutes in a large number of organisms ranging from fission yeast to\nhumans. Such structures have also been found in reconstituted systems in vitro\nand in theoretical analysis of cytoskeletal dynamics. We propose that tracking\nthese clusters can serve as a simple readout for characterising living matter.\nSpatio-temporal patterns of clusters could serve as determinants of\nmorphogenetic processes that play similar roles in diverse organisms.",
+      "authors": [
+        "Karsten Kruse",
+        "Rémi Berthoz",
+        "Luca Barberi",
+        "Anne-Cécile Reymann",
+        "Daniel Riveline"
+      ],
+      "categories": [
+        "q-bio.TO",
+        "q-bio.BM",
+        "q-bio.CB",
+        "q-bio.MN",
+        "q-bio.SC"
+      ],
+      "journal": "arXiv",
+      "year": 2024,
+      "source": "arXiv",
+      "search_term": {
+        "query": "biomarkers plant stress",
+        "category": "methodology",
+        "plant": "general",
+        "disease": "general",
+        "priority": "medium"
+      },
+      "relevance_score": 1.0,
+      "pdf_url": "http://arxiv.org/pdf/2408.05119v1"
+    },
+    {
+      "id": "arxiv_1810.13027v1",
+      "arxiv_id": "1810.13027v1",
+      "title": "Whole genome single nucleotide polymorphism genotyping of Staphylococcus\n  aureus",
+      "abstract": "Next-generation sequencing technology enables routine detection of bacterial\npathogens for clinical diagnostics and genetic research. Whole genome\nsequencing has been of importance in the epidemiologic analysis of bacterial\npathogens. However, few whole genome sequencing-based genotyping pipelines are\navailable for practical applications. Here, we present the whole genome\nsequencing-based single nucleotide polymorphism (SNP) genotyping method and\napply to the evolutionary analysis of methicillin-resistant Staphylococcus\naureus. The SNP genotyping method calls genome variants using next-generation\nsequencing reads of whole genomes and calculates the pair-wise Jaccard\ndistances of the genome variants. The method may reveal the high-resolution\nwhole genome SNP profiles and the structural variants of different isolates of\nmethicillin-resistant S. aureus (MRSA) and methicillin-susceptible S. aureus\n(MSSA) strains. The phylogenetic analysis of whole genomes and particular\nregions may monitor and track the evolution and the transmission dynamic of\nbacterial pathogens. The computer programs of the whole genome sequencing-based\nSNP genotyping method are available to the public at\nhttps://github.com/cyinbox/NGS.",
+      "authors": [
+        "Changchuan Yin",
+        "Stephen S. -T. Yau"
+      ],
+      "categories": [
+        "q-bio.GN",
+        "92D20"
+      ],
+      "journal": "arXiv",
+      "year": 2018,
+      "source": "arXiv",
+      "search_term": {
+        "query": "next generation sequencing plant pathogens",
+        "category": "methodology",
+        "plant": "general",
+        "disease": "general",
+        "priority": "medium"
+      },
+      "relevance_score": 4.0,
+      "pdf_url": "http://arxiv.org/pdf/1810.13027v1"
+    },
+    {
+      "id": "arxiv_1306.6163v1",
+      "arxiv_id": "1306.6163v1",
+      "title": "The complex hybrid origins of the root knot nematodes revealed through\n  comparative genomics",
+      "abstract": "Meloidogyne root knot nematodes (RKN) can infect most of the world's\nagricultural crop species and are among the most important of all plant\npathogens. As yet however we have little understanding of their origins or the\ngenomic basis of their extreme polyphagy. The most damaging pathogens reproduce\nby mitotic parthenogenesis and are suggested to originate by interspecific\nhybridizations between unknown parental taxa. We sequenced the genome of the\ndiploid meiotic parthenogen Meloidogyne floridensis, and use a comparative\ngenomic approach to test the hypothesis that it was involved in the hybrid\norigin of the tropical mitotic parthenogen M. incognita. Phylogenomic analysis\nof gene families from M. floridensis, M. incognita and an outgroup species M.\nhapla was used to trace the evolutionary history of these species' genomes,\ndemonstrating that M. floridensis was one of the parental species in the hybrid\norigins of M. incognita. Analysis of the M. floridensis genome revealed many\ngene loci present in divergent copies, as they are in M. incognita, indicating\nthat it too had a hybrid origin. The triploid M. incognita is shown to be a\ncomplex double-hybrid between M. floridensis and a third, unidentified parent.\nThe agriculturally important RKN have very complex origins involving the mixing\nof several parental genomes by hybridization and their extreme polyphagy and\nagricultural success may be related to this hybridization, producing\ntransgressive variation on which natural selection acts. Studying RKN variation\nvia individual marker loci may fail due to the species' convoluted origins, and\nmulti-species population genomics is essential to understand the hybrid\ndiversity and adaptive variation of this important species complex. This\ncomparative genomic analysis provides a compelling example of the importance\nand complexity of hybridization in generating animal species diversity more\ngenerally.",
+      "authors": [
+        "David H Lunt",
+        "Sujai Kumar",
+        "Georgios Koutsovoulos",
+        "Mark L Blaxter"
+      ],
+      "categories": [
+        "q-bio.PE",
+        "q-bio.GN"
+      ],
+      "journal": "arXiv",
+      "year": 2013,
+      "source": "arXiv",
+      "search_term": {
+        "query": "next generation sequencing plant pathogens",
+        "category": "methodology",
+        "plant": "general",
+        "disease": "general",
+        "priority": "medium"
+      },
+      "relevance_score": 2.0,
+      "pdf_url": "http://arxiv.org/pdf/1306.6163v1"
+    },
+    {
+      "id": "arxiv_2302.04340v1",
+      "arxiv_id": "2302.04340v1",
+      "title": "When does humoral memory enhance infection?",
+      "abstract": "Antibodies and humoral memory are key components of the adaptive immune\nsystem. We consider and computationally model mechanisms by which humoral\nmemory present at baseline might instead increase infection load; we refer to\nthis effect as EI-HM (enhancement of infection by humoral memory). We first\nconsider antibody dependent enhancement (ADE) in which antibody enhances the\ngrowth of the pathogen, typically a virus, and typically at intermediate\n\"Goldilocks\" levels of antibody. Our ADE model reproduces ADE in vitro and\nenhancement of infection in vivo from passive antibody transfer. But notably\nthe simplest implementation of our ADE model never results in EI-HM. Adding\ncomplexity, by making the cross-reactive antibody much less neutralizing than\nthe de novo generated antibody or by including a sufficiently strong\nnon-antibody immune response, allows for ADE-mediated EI-HM. We next consider\nthe possibility that cross-reactive memory causes EI-HM by crowding out a\npossibly superior de novo immune response. We show that, even without ADE,\nEI-HM can occur when the cross-reactive response is both less potent and\n\"directly\" (i.e. independently of infection load) suppressive with regard to\nthe de novo response. In this case adding a non-antibody immune response to our\ncomputational model greatly reduces or completely eliminates EI-HM, which\nsuggests that \"crowding out\" is unlikely to cause substantial EI-HM. Hence, our\nresults provide examples in which simple models give qualitatively opposite\nresults compared to models with plausible complexity. Our results may be\nhelpful in interpreting and reconciling disparate experimental findings,\nespecially from dengue, and for vaccination.",
+      "authors": [
+        "Ariel Nikas",
+        "Hasan Ahmed",
+        "Mia R. Moore",
+        "Veronika I. Zarnitsyna",
+        "Rustom Antia"
+      ],
+      "categories": [
+        "q-bio.CB",
+        "q-bio.TO"
+      ],
+      "journal": "arXiv",
+      "year": 2023,
+      "source": "arXiv",
+      "search_term": {
+        "query": "next generation sequencing plant pathogens",
+        "category": "methodology",
+        "plant": "general",
+        "disease": "general",
+        "priority": "medium"
+      },
+      "relevance_score": 1.0,
+      "pdf_url": "http://arxiv.org/pdf/2302.04340v1"
+    },
+    {
+      "id": "arxiv_1608.08565v1",
+      "arxiv_id": "1608.08565v1",
+      "title": "TLR-exosomes exhibit distinct kinetics and effector function",
+      "abstract": "The innate immune system is vital to rapidly responding to pathogens and\nToll-like receptors (TLRs) are a critical component of this response.\nNanovesicular exosomes play a role in immunity, but to date their exact\ncontribution to the dissemination of the TLR response is unknown. Here we show\nthat exosomes from TLR stimulated cells (TLR-exosomes) can largely recapitulate\nTLR activation in distal cells in vitro. We can abrogate the\naction-at-a-distance signaling of exosomes by UV irradiation, demonstrating\nthat RNA is crucial for their effector function. We are the first to show that\nexosomes derived from poly(I:C) stimulated cells induce in vivo macrophage\nM1-like polarization within murine lymph nodes. These TLR-exosomes demonstrate\nenhanced trafficking to the node and preferentially recruit neutrophils as\ncompared to control-exosomes. This work definitively establishes the\ndifferential effector function for TLR-exosomes in communicating the activation\nstate of the cell of origin.",
+      "authors": [
+        "Swetha Srinivasan",
+        "Michelle Su",
+        "Shashidhar Ravishankar",
+        "James Moore",
+        "PamelaSara E Head",
+        "J. Brandon Dixon",
+        "Fredrik O Vannberg"
+      ],
+      "categories": [
+        "q-bio.CB",
+        "q-bio.TO"
+      ],
+      "journal": "arXiv",
+      "year": 2016,
+      "source": "arXiv",
+      "search_term": {
+        "query": "su yönetimi pathogen",
+        "category": "pathogen_study",
+        "plant": "su",
+        "disease": "yönetimi",
+        "priority": "medium"
+      },
+      "relevance_score": 1.0,
+      "pdf_url": "http://arxiv.org/pdf/1608.08565v1"
+    },
+    {
+      "id": "arxiv_2403.04820v1",
+      "arxiv_id": "2403.04820v1",
+      "title": "Optical Screening of Citrus Leaf Diseases Using Label-Free Spectroscopic\n  Tools: A Review",
+      "abstract": "Citrus diseases pose threats to citrus farming and result in economic losses\nworldwide. Nucleic acid and serology-based methods of detection and,\nimmunochromatographic assays are commonly used but these laboratory tests are\nlaborious, expensive and might be subjected to cross-reaction and\ncontamination. Modern optical spectroscopic techniques offer a promising\nalternative as they are label-free, sensitive, rapid, non-destructive, and\ndemonstrate the potential for incorporation into an autonomous system for\ndisease detection in citrus orchards. Nevertheless, the majority of optical\nspectroscopic methods for citrus disease detection are still in the trial\nphases and, require additional efforts to be established as efficient and\ncommercially viable methods. The review presents an overview of fundamental\nworking principles, the state of the art, and explains the applications and\nlimitations of the optical spectroscopy technique including the spectroscopic\nimaging approach (hyperspectral imaging) in the identification of diseases in\ncitrus plants. The review highlights (1) the technical specifications of\noptical spectroscopic tools that can potentially be utilized in field\nmeasurements, (2) their applications in screening citrus diseases through leaf\nspectroscopy, and (3) discusses their benefits and limitations, including\nfuture insights into label-free identification of citrus diseases. Moreover,\nthe role of artificial intelligence is reviewed as potential effective tools\nfor spectral analysis, enabling more accurate detection of infected citrus\nleaves even before the appearance of visual symptoms by leveraging\ncompositional, morphological, and chemometric characteristics of the plant\nleaves. The review aims to encourage stakeholders to enhance the development\nand commercialization of field-based, label-free optical tools for the rapid\nand early-stage screening of citrus diseases in plants.",
+      "authors": [
+        "Saurav Bharadwaj",
+        "Akshita Midha",
+        "Shikha Sharma",
+        "Gurupkar Singh Sidhu",
+        "Rajesh Kumar"
+      ],
+      "categories": [
+        "q-bio.OT"
+      ],
+      "journal": "arXiv",
+      "year": 2024,
+      "source": "arXiv",
+      "search_term": {
+        "query": "hyperspectral imaging plant diseases",
+        "category": "methodology",
+        "plant": "general",
+        "disease": "general",
+        "priority": "medium"
+      },
+      "relevance_score": 4.0,
+      "pdf_url": "http://arxiv.org/pdf/2403.04820v1"
+    },
+    {
+      "id": "arxiv_2011.10372v4",
+      "arxiv_id": "2011.10372v4",
+      "title": "Transcriptome profiling research in urothelial cell carcinoma",
+      "abstract": "Urothelial cell carcinoma (UCC) is the ninth most common cancer that accounts\nfor 4.7% of all the new cancer cases globally. UCC development and progression\nare due to complex and stochastic genetic programmes. To study the cascades of\nmolecular events underlying the poor prognosis that may lead to limited\ntreatment options for advanced disease and resistance to conventional therapies\nin UCC, transcriptomics technology (RNA-Seq), a method of analysing the RNA\ncontent of a sample using modern high-throughput sequencing platforms has been\nemployed. Here we review the principles of RNA-Seq technology and summarize\nrecent studies on human bladder cancer that employed this technique to unravel\nthe pathogenesis of the disease, identify biomarkers, discover pathways and\nclassify the disease state. We list the commonly used computational platforms\nand software that are publicly available for RNA-Seq analysis. Moreover, we\ndiscussed the future perspectives for RNA-Seq studies on bladder cancer and\nrecommend the application of new technology called single cell sequencing\n(scRNA-Seq) to further understand the disease. Keywords: Transcriptome\nprofiling, RNA-sequencing, genomics, bioinformatics, bladder cancer",
+      "authors": [
+        "Umar Ahmad",
+        "Buhari Ibrahim",
+        "Mustapha Mohammed",
+        "Ahmed Faris Aldoghachi",
+        "Mahmood Usman",
+        "Abdulbasit Haliru Yakubu",
+        "Abubakar Sadiq Tanko",
+        "Khadijat Abubakar Bobbo",
+        "Usman Adamu Garkuwa",
+        "Abdullahi Adamu Faggo",
+        "Sagir Mustapha",
+        "Mahmoud Al-Masaeed",
+        "Syahril Abdullah",
+        "Yong Yoke Keong",
+        "Abhi Veerakumarasivam"
+      ],
+      "categories": [
+        "q-bio.GN",
+        "q-bio.QM",
+        "q-bio.TO"
+      ],
+      "journal": "arXiv",
+      "year": 2020,
+      "source": "arXiv",
+      "search_term": {
+        "query": "molecular markers disease resistance",
+        "category": "methodology",
+        "plant": "general",
+        "disease": "general",
+        "priority": "medium"
+      },
+      "relevance_score": 4.0,
+      "pdf_url": "http://arxiv.org/pdf/2011.10372v4"
+    },
+    {
+      "id": "arxiv_2004.03411v1",
+      "arxiv_id": "2004.03411v1",
+      "title": "On the Inhibition of COVID-19 Protease by Indian Herbal Plants: An In\n  Silico Investigation",
+      "abstract": "COVID-19 has quickly spread across the globe, becoming a pandemic. This\ndisease has a variable impact in different countries depending on their\ncultural norms, mitigation efforts and health infrastructure. In India, a\nmajority of people rely upon traditional Indian medicine to treat human\nmaladies due to less-cost, easier availability and without any side-effect.\nThese medicines are made by herbal plants. This study aims to assess the Indian\nherbal plants in the pursuit of potential COVID-19 inhibitors using in silico\napproaches. We have considered 18 extracted compounds of 11 different species\nof these plants. Our calculated lipophilicity, aqueous solubility and binding\naffinity of the extracted compounds suggest that the inhibition potentials in\nthe order; harsingar > aloe vera > giloy > turmeric > neem > ashwagandha > red\nonion > tulsi > cannabis > black pepper. On comparing the binding affinity with\nhydroxychloroquine, we note that the inhibition potentials of the extracts of\nharsingar, aloe vera and giloy are very promising. Therefore, we believe that\nthese findings will open further possibilities and accelerate the works towards\nfinding an antidote for this malady.",
+      "authors": [
+        "Ambrish Kumar Srivastava",
+        "Abhishek Kumar",
+        "Neeraj Misra"
+      ],
+      "categories": [
+        "q-bio.OT"
+      ],
+      "journal": "arXiv",
+      "year": 2020,
+      "source": "arXiv",
+      "search_term": {
+        "query": "remote sensing plant diseases",
+        "category": "methodology",
+        "plant": "general",
+        "disease": "general",
+        "priority": "medium"
+      },
+      "relevance_score": 1.0,
+      "pdf_url": "http://arxiv.org/pdf/2004.03411v1"
+    },
+    {
+      "id": "arxiv_2202.07171v1",
+      "arxiv_id": "2202.07171v1",
+      "title": "Investigating the genomic background of CRISPR-Cas genomes for\n  CRISPR-based antimicrobials",
+      "abstract": "CRISPR-Cas systems are an adaptive immunity that protects prokaryotes against\nforeign genetic elements. Genetic templates acquired during past infection\nevents enable DNA-interacting enzymes to recognize foreign DNA for destruction.\nDue to the programmability and specificity of these genetic templates,\nCRISPR-Cas systems are potential alternative antibiotics that can be engineered\nto self-target antimicrobial resistance genes on the chromosome or plasmid.\nHowever, several fundamental questions remain to repurpose these tools against\ndrug-resistant bacteria. For endogenous CRISPR-Cas self-targeting,\nantimicrobial resistance genes and functional CRISPR-Cas systems have to\nco-occur in the target cell. Furthermore, these tools have to outplay DNA\nrepair pathways that respond to the nuclease activities of Cas proteins, even\nfor exogenous CRISPR-Cas delivery. Here, we conduct a comprehensive survey of\nCRISPR-Cas genomes. First, we address the co-occurrence of CRISPR-Cas systems\nand antimicrobial resistance genes in the CRISPR-Cas genomes. We show that the\naverage number of these genes varies greatly by the CRISPR-Cas type, and some\nCRISPR-Cas types (IE and IIIA) have over 20 genes per genome. Next, we\ninvestigate the DNA repair pathways of these CRISPR-Cas genomes, revealing that\nthe diversity and frequency of these pathways differ by the CRISPR-Cas type.\nThe interplay between CRISPR-Cas systems and DNA repair pathways is essential\nfor the acquisition of new spacers in CRISPR arrays. We conduct simulation\nstudies to demonstrate that the efficiency of these DNA repair pathways may be\ninferred from the time-series patterns in the RNA structure of CRISPR repeats.\nThis bioinformatic survey of CRISPR-Cas genomes elucidates the necessity to\nconsider multifaceted interactions between different genes and systems to\ndesign effective CRISPR-based antimicrobials.",
+      "authors": [
+        "Hyunjin Shim"
+      ],
+      "categories": [
+        "q-bio.GN"
+      ],
+      "journal": "arXiv",
+      "year": 2022,
+      "source": "arXiv",
+      "search_term": {
+        "query": "CRISPR crop disease resistance",
+        "category": "methodology",
+        "plant": "general",
+        "disease": "general",
+        "priority": "medium"
+      },
+      "relevance_score": 2.0,
+      "pdf_url": "http://arxiv.org/pdf/2202.07171v1"
+    },
+    {
+      "id": "arxiv_2502.12675v1",
+      "arxiv_id": "2502.12675v1",
+      "title": "Fast Antibiotic resistance-Based gene editing of mammalian cells with\n  CRISPR-Cas9 (FAB-CRISPR)",
+      "abstract": "Protein tagging with CRISPR-Cas9 enables the investigation of protein\nfunction in its native environment but is limited by low homology-directed\nrepair (HDR) efficiency causing low knock-in rates. We present a detailed\npipeline using HDR donor plasmids containing antibiotic resistance cassettes\nfor rapid selection of gene-edited cells. Our protocol streamlines N- or\nC-terminal tagging in human cells, enabling HDR donor plasmid preparation in a\nsingle cloning step.",
+      "authors": [
+        "Petia Adarska",
+        "Eleanor Fox",
+        "Joshua Heyza",
+        "Carlo Barnaba",
+        "Jens Schmidt",
+        "Francesca Bottanelli"
+      ],
+      "categories": [
+        "q-bio.SC"
+      ],
+      "journal": "arXiv",
+      "year": 2025,
+      "source": "arXiv",
+      "search_term": {
+        "query": "CRISPR crop disease resistance",
+        "category": "methodology",
+        "plant": "general",
+        "disease": "general",
+        "priority": "medium"
+      },
+      "relevance_score": 2.0,
+      "pdf_url": "http://arxiv.org/pdf/2502.12675v1"
+    },
+    {
+      "id": "arxiv_2011.01877v1",
+      "arxiv_id": "2011.01877v1",
+      "title": "Exploring the Synchrony Between Body Temperature and HR, RR, and Aortic\n  Blood Pressure in Viral/Bacterial Disease Onsets with Signal Dynamics",
+      "abstract": "Signal-based early detection of illnesses has been a key topic in research\nand hospital settings; it reduces technological costs and paves the way for\nquick and effective patient-care operations. Elementary machine learning and\nsignal processing algorithms have proven to be sufficient in classifying the\nonset of viral and bacterial conditions before clinical symptoms are shown.\nInspired by these recent developments, this project employs signal dynamics\nanalysis to infer changes in vital signs (temperature, respiration, and heart\nrate). The results demonstrate that the trends of one vital function can be\npredicted from that of another. In particular, it is shown that heart rate and\nrespiration typically change shortly after body temperature, and aortic blood\npressure follows. This is not an etiologically specific approach, but if\nadvanced further, it can enable patients and wearable system users to tame\nthese changes and prevent immediate symptoms.",
+      "authors": [
+        "Camille Dunning"
+      ],
+      "categories": [
+        "q-bio.OT"
+      ],
+      "journal": "arXiv",
+      "year": 2020,
+      "source": "arXiv",
+      "search_term": {
+        "query": "plant disease detection machine learning",
+        "category": "methodology",
+        "plant": "general",
+        "disease": "general",
+        "priority": "medium"
+      },
+      "relevance_score": 4.0,
+      "pdf_url": "http://arxiv.org/pdf/2011.01877v1"
+    },
+    {
+      "id": "arxiv_1308.4433v1",
+      "arxiv_id": "1308.4433v1",
+      "title": "Predicting non-neutral missense mutations and their biochemical\n  consequences using genome-scale homology modeling of human protein complexes",
+      "abstract": "Computational methods are needed to differentiate the small fraction of\nmissense mutations that contribute to disease by disrupting protein function\nfrom neutral variants. We describe several complementary methods using\nlarge-scale homology modeling of human protein complexes to detect non-neutral\nmutations. Importantly, unlike sequence conservation-based methods, this\nstructure-based approach provides experimentally testable biochemical\nmechanisms for mutations in disease. Specifically, we infer metal ion, small\nmolecule, protein-protein, and nucleic acid binding sites by homology and find\nthat disease-associated missense mutations are more prevalent in each class of\nbinding site than are neutral mutations. Importantly, our approach identifies\nconsiderably more binding sites than those annotated in the RefSeq database.\nFurthermore, an analysis of metal ion and protein-protein binding sites\npredicted by machine learning shows a similar preponderance of\ndisease-associated mutations in these sites. We also derive a statistical score\nfor predicting how mutations affect metal ion binding and find many dbSNP\nmutations that likely disrupt ion binding but were not previously considered\ndeleterious. We also cluster mutations in the protein structure to discover\nputative functional regions. Finally, we develop a machine learning predictor\nfor detecting disease-associated missense mutations and show that it\noutperforms two other prediction methods on an independent test set.",
+      "authors": [
+        "Andrew J. Bordner",
+        "Barry Zorman"
+      ],
+      "categories": [
+        "q-bio.BM",
+        "q-bio.GN"
+      ],
+      "journal": "arXiv",
+      "year": 2013,
+      "source": "arXiv",
+      "search_term": {
+        "query": "plant disease detection machine learning",
+        "category": "methodology",
+        "plant": "general",
+        "disease": "general",
+        "priority": "medium"
+      },
+      "relevance_score": 3.0,
+      "pdf_url": "http://arxiv.org/pdf/1308.4433v1"
+    },
+    {
+      "id": "arxiv_1512.04370v1",
+      "arxiv_id": "1512.04370v1",
+      "title": "Nuquantus: Machine learning software for the characterization and\n  quantification of cell nuclei in complex immunofluorescent tissue images",
+      "abstract": "Determination of fundamental mechanisms of disease often hinges on\nhistopathology visualization and quantitative image analysis. Currently, the\nanalysis of multi-channel fluorescence tissue images is primarily achieved by\nmanual measurements of tissue cellular content and sub-cellular compartments.\nSince the current manual methodology for image analysis is a tedious and\nsubjective approach, there is clearly a need for an automated analytical\ntechnique to process large-scale image datasets. Here, we introduce Nuquantus\n(Nuclei quantification utility software) - a novel machine learning-based\nanalytical method, which identifies, quantifies and classifies nuclei based on\ncells of interest in composite fluorescent tissue images, in which cell borders\nare not visible. Nuquantus is an adaptive framework that learns the\nmorphological attributes of intact tissue in the presence of anatomical\nvariability and pathological processes. Nuquantus allowed us to robustly\nperform quantitative image analysis on remodeling cardiac tissue after\nmyocardial infarction. Nuquantus reliably classifies cardiomyocyte versus\nnon-cardiomyocyte nuclei and detects cell proliferation, as well as cell death\nin different cell classes. Broadly, Nuquantus provides innovative computerized\nmethodology to analyze complex tissue images that significantly facilitates\nimage analysis and minimizes human bias.",
+      "authors": [
+        "Polina Gross",
+        "Nicolas Honnorat",
+        "Erdem Varol",
+        "Markus Wallner",
+        "Danielle M. Trappanese",
+        "Thomas E. Sharp",
+        "Tim Starosta",
+        "Jason M. Duran",
+        "Sarah Koller",
+        "Christos Davatzikos",
+        "Steven R. Houser"
+      ],
+      "categories": [
+        "q-bio.QM",
+        "q-bio.TO"
+      ],
+      "journal": "arXiv",
+      "year": 2015,
+      "source": "arXiv",
+      "search_term": {
+        "query": "plant disease detection machine learning",
+        "category": "methodology",
+        "plant": "general",
+        "disease": "general",
+        "priority": "medium"
+      },
+      "relevance_score": 3.0,
+      "pdf_url": "http://arxiv.org/pdf/1512.04370v1"
+    },
+    {
+      "id": "arxiv_2106.02246v2",
+      "arxiv_id": "2106.02246v2",
+      "title": "Deep Contextual Learners for Protein Networks",
+      "abstract": "Spatial context is central to understanding health and disease. Yet reference\nprotein interaction networks lack such contextualization, thereby limiting the\nstudy of where protein interactions likely occur in the human body and how they\nmay be altered in disease. Contextualized protein interactions could better\ncharacterize genes with disease-specific interactions and elucidate diseases'\nmanifestation in specific cell types. Here, we introduce AWARE, a graph neural\nmessage passing approach to inject cellular and tissue context into protein\nembeddings. AWARE optimizes for a multi-scale embedding space, whose structure\nreflects network topology at a single-cell resolution. We construct a\nmulti-scale network of the Human Cell Atlas and apply AWARE to learn protein,\ncell type, and tissue embeddings that uphold cell type and tissue hierarchies.\nWe demonstrate AWARE's utility on the novel task of predicting whether a\nprotein is altered in disease and where that association most likely manifests\nin the human body. To this end, AWARE outperforms generic embeddings without\ncontextual information by at least 12.5%, showing AWARE's potential to reveal\ncontext-dependent roles of proteins in disease.",
+      "authors": [
+        "Michelle M. Li",
+        "Marinka Zitnik"
+      ],
+      "categories": [
+        "cs.LG",
+        "q-bio.MN",
+        "q-bio.QM",
+        "q-bio.TO"
+      ],
+      "journal": "arXiv",
+      "year": 2021,
+      "source": "arXiv",
+      "search_term": {
+        "query": "plant disease detection machine learning",
+        "category": "methodology",
+        "plant": "general",
+        "disease": "general",
+        "priority": "medium"
+      },
+      "relevance_score": 1.0,
+      "pdf_url": "http://arxiv.org/pdf/2106.02246v2"
+    },
+    {
+      "id": "arxiv_2503.09979v1",
+      "arxiv_id": "2503.09979v1",
+      "title": "Silicon is the next frontier in plant synthetic biology",
+      "abstract": "Silicon has striking similarity with carbon and is found in plant cells.\nHowever, there is no specific role that has been assigned to silicon in the\nlife cycle of plants. The amount of silicon in plant cells is species specific\nand can reach levels comparable to macronutrients. Silicon is the central\nelement for artificial intelligence, nanotechnology and digital revolution thus\ncan act as an informational molecule like nucleic acids while the diverse\nbonding potential of silicon with different chemical species is analogous to\ncarbon and thus can serve as a structural candidate such as proteins. The\ndiscovery of large amounts of silicon on Mars and the moon along with the\nrecent developments of enzyme that can incorporate silicon into organic\nmolecules has propelled the theory of creating silicon-based life. More\nrecently, bacterial cytochrome has been modified through directed evolution\nsuch that it could cleave silicon-carbon bonds in organo-silicon compounds thus\nconsolidating on the idea of utilizing silicon in biomolecules. In this article\nthe potential of silicon-based life forms has been hypothesized along with the\nreasoning that autotrophic virus-like particles can be a lucrative candidate to\ninvestigate such potential. Such investigations in the field of synthetic\nbiology and astrobiology will have corollary benefit on Earth in the areas of\nmedicine, sustainable agriculture and environmental sustainability.\nBibliometric analysis indicates an increasing interest in synthetic biology.\nGermany leads in research related to plant synthetic biology, while\nBiotechnology and Biological Sciences Research Council (BBSRC) at UK has\nhighest financial commitments and Chinese Academy of Sciences generates the\nhighest number of publications in the field.",
+      "authors": [
+        "Aniruddha Acharya",
+        "Kaitlin Hopkins",
+        "Tatum Simms"
+      ],
+      "categories": [
+        "q-bio.BM"
+      ],
+      "journal": "arXiv",
+      "year": 2025,
+      "source": "arXiv",
+      "search_term": {
+        "query": "artificial intelligence agriculture",
+        "category": "methodology",
+        "plant": "general",
+        "disease": "general",
+        "priority": "medium"
+      },
+      "relevance_score": 3.0,
+      "pdf_url": "http://arxiv.org/pdf/2503.09979v1"
+    },
+    {
+      "id": "arxiv_2406.02623v2",
+      "arxiv_id": "2406.02623v2",
+      "title": "The Vertebrate Breed Ontology: Towards Effective Breed Data\n  Standardization",
+      "abstract": "Background: Limited universally-adopted data standards in veterinary medicine\nhinder data interoperability and therefore integration and comparison; this\nultimately impedes the application of existing information-based tools to\nsupport advancement in diagnostics, treatments, and precision medicine.\n  Objectives: A single, coherent, logic-based standard for documenting breed\nnames in health, production, and research-related records will improve data use\ncapabilities in veterinary and comparative medicine. Methods: The Vertebrate\nBreed Ontology (VBO) was created from breed names and related information\ncompiled from the Food and Agriculture Organization of the United Nations,\nbreed registries, communities, and experts, using manual and computational\napproaches. Each breed is represented by a VBO term that includes breed\ninformation and provenance as metadata. VBO terms are classified using\ndescription logic to allow computational applications and Artificial\nIntelligence-readiness.\n  Results: VBO is an open, community-driven ontology representing over 19,500\nlivestock and companion animal breed concepts covering 49 species. Breeds are\nclassified based on community and expert conventions (e.g., cattle breed) and\nsupported by relations to the breed's genus and species indicated by National\nCenter for Biotechnology Information (NCBI) Taxonomy terms. Relationships\nbetween VBO terms (e.g., relating breeds to their foundation stock) provide\nadditional context to support advanced data analytics. VBO term metadata\nincludes synonyms, breed identifiers/codes, and attributed cross-references to\nother databases.\n  Conclusion and clinical importance: The adoption of VBO as a source of\nstandard breed names in databases and veterinary electronic health records can\nenhance veterinary data interoperability and computability.",
+      "authors": [
+        "Kathleen R. Mullen",
+        "Imke Tammen",
+        "Nicolas A. Matentzoglu",
+        "Marius Mather",
+        "James P. Balhoff",
+        "Elizabeth Esdaile",
+        "Gregoire Leroy",
+        "Carissa A. Park",
+        "Halie M. Rando",
+        "Nadia T. Saklou",
+        "Tracy L. Webb",
+        "Nicole A. Vasilevsky",
+        "Christopher J. Mungall",
+        "Melissa A. Haendel",
+        "Frank W. Nicholas",
+        "Sabrina Toro"
+      ],
+      "categories": [
+        "q-bio.OT",
+        "cs.DL"
+      ],
+      "journal": "arXiv",
+      "year": 2024,
+      "source": "arXiv",
+      "search_term": {
+        "query": "artificial intelligence agriculture",
+        "category": "methodology",
+        "plant": "general",
+        "disease": "general",
+        "priority": "medium"
+      },
+      "relevance_score": 3.0,
+      "pdf_url": "http://arxiv.org/pdf/2406.02623v2"
+    },
+    {
+      "id": "arxiv_2501.14469v2",
+      "arxiv_id": "2501.14469v2",
+      "title": "Pesti-Gen: Unleashing a Generative Molecule Approach for Toxicity Aware\n  Pesticide Design",
+      "abstract": "Global climate change has reduced crop resilience and pesticide efficacy,\nmaking reliance on synthetic pesticides inevitable, even though their\nwidespread use poses significant health and environmental risks. While these\npesticides remain a key tool in pest management, previous machine-learning\napplications in pesticide and agriculture have focused on classification or\nregression, leaving the fundamental challenge of generating new molecular\nstructures or designing novel candidates unaddressed. In this paper, we propose\nPesti-Gen, a novel generative model based on variational auto-encoders,\ndesigned to create pesticide candidates with optimized properties for the first\ntime. Specifically, Pesti-Gen leverages a two-stage learning process: an\ninitial pre-training phase that captures a generalized chemical structure\nrepresentation, followed by a fine-tuning stage that incorporates\ntoxicity-specific information. The model simultaneously optimizes over multiple\ntoxicity metrics, such as (1) livestock toxicity and (2) aqua toxicity to\ngenerate environmentally friendly pesticide candidates. Notably, Pesti-Gen\nachieves approximately 68\\% structural validity in generating new molecular\nstructures, demonstrating the model's effectiveness in producing optimized and\nfeasible pesticide candidates, thereby providing a new way for safer and more\nsustainable pest management solutions.",
+      "authors": [
+        "Taehan Kim",
+        "Wonduk Seo"
+      ],
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "q-bio.BM",
+        "q-bio.MN"
+      ],
+      "journal": "arXiv",
+      "year": 2025,
+      "source": "arXiv",
+      "search_term": {
+        "query": "artificial intelligence agriculture",
+        "category": "methodology",
+        "plant": "general",
+        "disease": "general",
+        "priority": "medium"
+      },
+      "relevance_score": 1.0,
+      "pdf_url": "http://arxiv.org/pdf/2501.14469v2"
+    },
+    {
+      "id": "arxiv_2404.16196v3",
+      "arxiv_id": "2404.16196v3",
+      "title": "ApisTox: a new benchmark dataset for the classification of small\n  molecules toxicity on honey bees",
+      "abstract": "The global decline in bee populations poses significant risks to agriculture,\nbiodiversity, and environmental stability. To bridge the gap in existing data,\nwe introduce ApisTox, a comprehensive dataset focusing on the toxicity of\npesticides to honey bees (Apis mellifera). This dataset combines and leverages\ndata from existing sources such as ECOTOX and PPDB, providing an extensive,\nconsistent, and curated collection that surpasses the previous datasets.\nApisTox incorporates a wide array of data, including toxicity levels for\nchemicals, details such as time of their publication in literature, and\nidentifiers linking them to external chemical databases. This dataset may serve\nas an important tool for environmental and agricultural research, but also can\nsupport the development of policies and practices aimed at minimizing harm to\nbee populations. Finally, ApisTox offers a unique resource for benchmarking\nmolecular property prediction methods on agrochemical compounds, facilitating\nadvancements in both environmental science and cheminformatics. This makes it a\nvaluable tool for both academic research and practical applications in bee\nconservation.",
+      "authors": [
+        "Jakub Adamczyk",
+        "Jakub Poziemski",
+        "Pawel Siedlecki"
+      ],
+      "categories": [
+        "q-bio.QM",
+        "cs.AI",
+        "cs.LG",
+        "q-bio.BM",
+        "92-04",
+        "J.3"
+      ],
+      "journal": "arXiv",
+      "year": 2024,
+      "source": "arXiv",
+      "search_term": {
+        "query": "artificial intelligence agriculture",
+        "category": "methodology",
+        "plant": "general",
+        "disease": "general",
+        "priority": "medium"
+      },
+      "relevance_score": 1.0,
+      "pdf_url": "http://arxiv.org/pdf/2404.16196v3"
+    },
+    {
+      "id": "arxiv_2309.16994v3",
+      "arxiv_id": "2309.16994v3",
+      "title": "A rigorous benchmarking of methods for SARS-CoV-2 lineage abundance\n  estimation in wastewater",
+      "abstract": "In light of the continuous transmission and evolution of SARS-CoV-2 coupled\nwith a significant decline in clinical testing, there is a pressing need for\nscalable, cost-effective, long-term, passive surveillance tools to effectively\nmonitor viral variants circulating in the population. Wastewater genomic\nsurveillance of SARS-CoV-2 has arrived as an alternative to clinical genomic\nsurveillance, allowing to continuously monitor the prevalence of viral lineages\nin communities of various size at a fraction of the time, cost, and logistic\neffort and serving as an early warning system for emerging variants, critical\nfor developed communities and especially for underserved ones. Importantly,\nlineage prevalence estimates obtained with this approach aren't distorted by\nbiases related to clinical testing accessibility and participation. However,\nthe relative performance of bioinformatics methods used to measure relative\nlineage abundances from wastewater sequencing data is unknown, preventing both\nthe research community and public health authorities from making informed\ndecisions regarding computational tool selection. Here, we perform\ncomprehensive benchmarking of 18 bioinformatics methods for estimating the\nrelative abundance of SARS-CoV-2 (sub)lineages in wastewater by using data from\n36 in vitro mixtures of synthetic lineage and sublineage genomes. In addition,\nwe use simulated data from 78 mixtures of lineages and sublineages co-occurring\nin the clinical setting with proportions mirroring their prevalence ratios\nobserved in real data. Importantly, we investigate how the accuracy of the\nevaluated methods is impacted by the sequencing technology used, the associated\nerror rate, the read length, read depth, but also by the exposure of the\nsynthetic RNA mixtures to wastewater, with the goal of capturing the effects\ninduced by the wastewater matrix, including RNA fragmentation and degradation.",
+      "authors": [
+        "Viorel Munteanu",
+        "Victor Gordeev",
+        "Michael Saldana",
+        "Eva Aßmann",
+        "Justin Maine Su",
+        "Nicolae Drabcinski",
+        "Oksana Zlenko",
+        "Maryna Kit",
+        "Felicia Iordachi",
+        "Khooshbu Kantibhai Patel",
+        "Abdullah Al Nahid",
+        "Likhitha Chittampalli",
+        "Yidian Xu",
+        "Pavel Skums",
+        "Shelesh Agrawal",
+        "Martin Hölzer",
+        "Adam Smith",
+        "Alex Zelikovsky",
+        "Serghei Mangul"
+      ],
+      "categories": [
+        "q-bio.GN"
+      ],
+      "journal": "arXiv",
+      "year": 2023,
+      "source": "arXiv",
+      "search_term": {
+        "query": "su yönetimi prevention",
+        "category": "prevention",
+        "plant": "su",
+        "disease": "yönetimi",
+        "priority": "medium"
+      },
+      "relevance_score": 4.0,
+      "pdf_url": "http://arxiv.org/pdf/2309.16994v3"
+    },
+    {
+      "id": "arxiv_1411.0099v1",
+      "arxiv_id": "1411.0099v1",
+      "title": "Real-time PCR (qPCR) assay for Rhizoctonia solani anastomoses group\n  AG2-2IIIb",
+      "abstract": "Rhizoctonia solani anastomosis group AG2-2 IIIB is a severe sugar beet and\nmaize pathogen. It causes crown and root rot disease which leads to yield\nlosses world-wide. The soil-borne pathogen is difficult to detect and quantify\nby conventional methods. We developed a real-time PCR (qPCR) assay for the\nquantification of genomic DNA of Rhizoctonia solani AG2-2 IIIB based on the ITS\nregion of rDNA genes. The limit of quantification of the assay is 1.8 pg\ngenomic DNA. The amplification efficiency was 96.4. The assay will be helpful\nin the diagnoses of Rhizoctonia solani infection of sugar beet and maize roots\nand in the quantification of R. solani AG2-2 IIIB inoculum in plant debris and\nsoil.",
+      "authors": [
+        "S. J. Abbas",
+        "B. Ahmad",
+        "P. Karlovsky"
+      ],
+      "categories": [
+        "q-bio.QM"
+      ],
+      "journal": "arXiv",
+      "year": 2014,
+      "source": "arXiv",
+      "search_term": {
+        "query": "qPCR plant pathogen detection",
+        "category": "methodology",
+        "plant": "general",
+        "disease": "general",
+        "priority": "medium"
+      },
+      "relevance_score": 3.0,
+      "pdf_url": "http://arxiv.org/pdf/1411.0099v1"
+    },
+    {
+      "id": "arxiv_2307.14043v1",
+      "arxiv_id": "2307.14043v1",
+      "title": "Unravelling the fluorescence kinetics of light-harvesting proteins with\n  simulated measurements",
+      "abstract": "The plant light-harvesting pigment-protein complex LHCII is the major antenna\nsub-unit of PSII and is generally (though not universally) accepted to play a\nrole in photoprotective energy dissipation under high light conditions, a\nprocess known Non-Photochemical Quenching (NPQ). The underlying mechanisms of\nenergy trapping and dissipation within LHCII are still debated. Various\nproposed models differ considerably in their molecular and kinetic detail, but\nare often based on different interpretations of very similar transient\nabsorption measurements of isolated complexes. Here we present a simulated\nmeasurement of the fluorescence decay kinetics of quenched LHCII aggregates to\ndetermine whether this relatively simple measurement can discriminate between\ndifferent potential NPQ mechanisms. We simulate not just the underlying physics\n(excitation, energy migration, quenching and singlet-singlet annihilation) but\nalso the signal detection and typical experimental data analysis. Comparing\nthis to a selection of published fluorescence decay kinetics we find that: (1)\nDifferent proposed quenching mechanisms produce noticeably different\nfluorescence kinetics even at low (annihilation free) excitation density,\nthough the degree of difference is dependent on pulse width. (2) Measured decay\nkinetics are consistent with most LHCII trimers becoming relatively slow\nexcitation quenchers. A small sub-population of very fast quenchers produces\nkinetics which do not resemble any observed measurement. (3) It is necessary to\nconsider at least two distinct quenching mechanisms in order to accurately\nreproduce experimental kinetics, supporting the idea that NPQ is not a simple\nbinary switch switch.",
+      "authors": [
+        "Callum Gray",
+        "Lekshmi Kailas",
+        "Peter G. Adams",
+        "Christopher D. P. Duffy"
+      ],
+      "categories": [
+        "q-bio.MN",
+        "q-bio.BM",
+        "q-bio.SC"
+      ],
+      "journal": "arXiv",
+      "year": 2023,
+      "source": "arXiv",
+      "search_term": {
+        "query": "qPCR plant pathogen detection",
+        "category": "methodology",
+        "plant": "general",
+        "disease": "general",
+        "priority": "medium"
+      },
+      "relevance_score": 2.0,
+      "pdf_url": "http://arxiv.org/pdf/2307.14043v1"
+    },
+    {
+      "id": "arxiv_2208.00471v1",
+      "arxiv_id": "2208.00471v1",
+      "title": "Network strategies to study Epstein-Barr virus associated carcinomas and\n  potential etiological mechanisms for oncogenesis",
+      "abstract": "Diseased conditions are a consequence of some abnormality that are associated\nwith clinical conditions in numerous cells and tissues affecting various\norgans. The common role of EBV (Epstein-Barr virus) in causing infectious\nmononucleosis (IM) affecting B-cells and epithelial cells and the development\nof EBV-associated cancers has been an area of active research. Investigating\nsuch significant interactions may help discover new therapeutic targets for\ncertain EBV-associated lymphoproliferative (Burkitt's Lymphoma and Hodgkin's\nLymphoma) and non-lymphoproliferative diseases (Gastric cancer and\nNasopharyngeal cancer). Based on the DisGeNET (v7.0) data set, we constructed a\ndisease-gene network bipartite graph to identify genes that are involved in\nvarious carcinomas namely, gastric cancer (GC), nasopharyngeal cancer (NPC),\nHodgkin's lymphoma (HL) and Burkitt's lymphoma (BL). Using the community\ndetection algorithm (Louvain method), we identified communities followed by\nfunctional enrichment using over-representation analysis methodology. In this\nstudy, we identified the modular communities to explore the relation of this\ncommon causative pathogen (EBV) with different carcinomas such as GC, NPC, HL\nand BL. We could identify the top 10 genes as CASP10, BRAF, NFKBIA, IFNA2,\nGSTP1, CSF3, GATA3, UBR5, AXIN2 and POLE based on their degree of distribution.\nFurther over-representation analysis showed that the ABL1 gene was\nsignificantly over-represented in 3 out of 9 critical biological processes. As\na result, we can infer that the EBV pathogen is selective in targeting critical\npathways to bring about cellular growth arrest/apoptosis and interfering with\nvital biological processes, including the TP53 network of genes that leads to\nfurther proliferation of damage to vital cellular activities.",
+      "authors": [
+        "S. Chatterjee",
+        "B. S. Sanjeev"
+      ],
+      "categories": [
+        "q-bio.MN",
+        "q-bio.SC"
+      ],
+      "journal": "arXiv",
+      "year": 2022,
+      "source": "arXiv",
+      "search_term": {
+        "query": "qPCR plant pathogen detection",
+        "category": "methodology",
+        "plant": "general",
+        "disease": "general",
+        "priority": "medium"
+      },
+      "relevance_score": 2.0,
+      "pdf_url": "http://arxiv.org/pdf/2208.00471v1"
+    },
+    {
+      "id": "arxiv_1902.02014v1",
+      "arxiv_id": "1902.02014v1",
+      "title": "Detection of virulence factors and beta-lactamase encoding genes among\n  the clinical isolates of Pseudomonas aeruginosa",
+      "abstract": "Background: Pseudomonas aeruginosa has emerged as a significant opportunistic\nbacterial pathogen that causes nosocomial infections in healthcare settings\nresulting in treatment failure throughout the world. This study was carried out\nto compare the relatedness between virulence characteristics and\n\\b{eta}-lactamase encoding genes producing Pseudomonas aeruginosa. Methods: A\ntotal of 120 P. aeruginosa isolates were obtained from both paediatric and\nadult patients of Selayang Hospital, Kuala Lumpur, Malaysia. Phenotypic methods\nwere used to detect various virulence factors (Phospholipase, Hemolysin,\nGelatinase, DNAse, and Biofilm). All the isolates were evaluated for production\nof extended spectrum beta-lactamase (ESBL) as well as metallo \\b{eta}-lactamase\n(MBL) by Double-disk synergy test (DDST) and E-test while AmpC\n\\b{eta}-lactamase production was detected by disk antagonism test. Results: In\nthis study, 120 Pseudomonas aeruginosa isolates (20 each from blood, wounds,\nrespiratory secretions, stools, urine, and sputum samples) were studied. Among\nPseudomonas aeruginosa isolates, the distribution of virulence factors was\npositive for hemolysin (48.33%), DNAse (43.33%), phospholipase (40.83%),\ngelatinase (31.66%) production and biofilm formation (34%) respectively. The\nprevalence of multiple \\b{eta}-lactamase in P. aeruginosa showed 19.16% ESBL,\n7.5% MBL and 10.83% AmpC production respectively. Conclusion: A regular\nsurveillance is required to reduce public healt",
+      "authors": [
+        "Fazlul MKK",
+        "Najnin A",
+        "Farzana Y",
+        "Rashid MA",
+        "Deepthi S",
+        "Srikumar C",
+        "SS Rashid",
+        "Nazmul MHM"
+      ],
+      "categories": [
+        "q-bio.OT"
+      ],
+      "journal": "arXiv",
+      "year": 2019,
+      "source": "arXiv",
+      "search_term": {
+        "query": "qPCR plant pathogen detection",
+        "category": "methodology",
+        "plant": "general",
+        "disease": "general",
+        "priority": "medium"
+      },
+      "relevance_score": 2.0,
+      "pdf_url": "http://arxiv.org/pdf/1902.02014v1"
+    },
+    {
+      "id": "arxiv_2405.02767v1",
+      "arxiv_id": "2405.02767v1",
+      "title": "A Decade in a Systematic Review: The Evolution and Impact of Cell\n  Painting",
+      "abstract": "High-content image-based assays have fueled significant discoveries in the\nlife sciences in the past decade (2013-2023), including novel insights into\ndisease etiology, mechanism of action, new therapeutics, and toxicology\npredictions. Here, we systematically review the substantial methodological\nadvancements and applications of Cell Painting. Advancements include\nimprovements in the Cell Painting protocol, assay adaptations for different\ntypes of perturbations and applications, and improved methodologies for feature\nextraction, quality control, and batch effect correction. Moreover, machine\nlearning methods recently surpassed classical approaches in their ability to\nextract biologically useful information from Cell Painting images. Cell\nPainting data have been used alone or in combination with other -omics data to\ndecipher the mechanism of action of a compound, its toxicity profile, and many\nother biological effects. Overall, key methodological advances have expanded\nthe ability of Cell Painting to capture cellular responses to various\nperturbations. Future advances will likely lie in advancing computational and\nexperimental techniques, developing new publicly available datasets, and\nintegrating them with other high-content data types.",
+      "authors": [
+        "Srijit Seal",
+        "Maria-Anna Trapotsi",
+        "Ola Spjuth",
+        "Shantanu Singh",
+        "Jordi Carreras-Puigvert",
+        "Nigel Greene",
+        "Andreas Bender",
+        "Anne E. Carpenter"
+      ],
+      "categories": [
+        "q-bio.SC",
+        "q-bio.CB"
+      ],
+      "journal": "arXiv",
+      "year": 2024,
+      "source": "arXiv",
+      "search_term": {
+        "query": "biological control plant diseases",
+        "category": "general_agriculture",
+        "plant": "general",
+        "disease": "general",
+        "priority": "low"
+      },
+      "relevance_score": 2.0,
+      "pdf_url": "http://arxiv.org/pdf/2405.02767v1"
+    },
+    {
+      "id": "arxiv_1804.01958v1",
+      "arxiv_id": "1804.01958v1",
+      "title": "The multiphysics of prion-like diseases: progression and atrophy",
+      "abstract": "Many neurodegenerative diseases are related to the propagation and\naccumulation of toxic proteins throughout the brain. The lesions created by\naggregates of these toxic proteins further lead to cell death and accelerated\ntissue atrophy. A striking feature of some of these diseases is their\ncharacteristic pattern and evolution, leading to well-codified disease stages\nvisible to neuropathology and associated with various cognitive deficits and\npathologies. Here, we simulate the anisotropic propagation and accumulation of\ntoxic proteins in full brain geometry. We show that the same model with\ndifferent initial seeding zones reproduces the characteristic evolution of\ndifferent prion-like diseases. We also recover the expected evolution of the\ntotal toxic protein load. Finally, we couple our transport model to a\nmechanical atrophy model to obtain the typical degeneration patterns found in\nneurodegenerative diseases.",
+      "authors": [
+        "Johannes Weickenmeier",
+        "Ellen Kuhl",
+        "Alain Goriely"
+      ],
+      "categories": [
+        "q-bio.NC",
+        "q-bio.TO"
+      ],
+      "journal": "arXiv",
+      "year": 2018,
+      "source": "arXiv",
+      "search_term": {
+        "query": "seed pathology",
+        "category": "general_agriculture",
+        "plant": "general",
+        "disease": "general",
+        "priority": "low"
+      },
+      "relevance_score": 2.0,
+      "pdf_url": "http://arxiv.org/pdf/1804.01958v1"
+    },
+    {
+      "id": "arxiv_1910.03129v1",
+      "arxiv_id": "1910.03129v1",
+      "title": "Maize yield under a changing climate: The hidden role of vapor pressure\n  deficit",
+      "abstract": "Temperatures over the next century are expected to rise to levels detrimental\nto crop growth and yield. As the atmosphere warms without additional water\nvapor input, vapor pressure deficit (VPD) increases as well. Increased\ntemperatures and accompanied elevated VPD levels can both lead to negative\nimpacts on crop yield. The independent importance of VPD, however, is often\nneglected or conflated with that from temperature due to a tight correlation\nbetween the two climate factors. We used a coupled process-based crop (MAIZSIM)\nand soil (2DSOIL) model to gain a mechanistic understanding of the independent\nroles temperature and VPD play in crop yield projections, as well as their\ninteractions with rising CO2 levels and changing precipitation patterns. We\nfound that by separating out the VPD effect from rising temperatures, VPD\nincreases had a greater negative impact on yield compared to that from warming.\nThe negative impact of these two factors varied with precipitation levels and\ninfluenced yield through separate mechanisms. Warmer temperatures caused yield\nloss mainly through shortening the growing season, while elevated VPD increased\nwater loss and triggered several water stress responses such as reduced\nphotosynthetic rates, lowered leaf area development, and shortened growing\nseason length. Elevated CO2 concentrations partially alleviated yield loss\nunder warming or increased VPD conditions through water savings, but the impact\nlevel varied with precipitation levels and was most pronounced under drier\nconditions. These results demonstrate the key role VPD plays in crop growth and\nyield, displaying a magnitude of impact comparative to temperature and CO2. A\nmechanistic understanding of the function of VPD and its relation with other\nclimate factors and management practices is critical to improving crop yield\nprojections under a changing climate.",
+      "authors": [
+        "Jennifer Hsiao",
+        "Abigail L. S. Swann",
+        "Soo-Hyung Kim"
+      ],
+      "categories": [
+        "q-bio.OT"
+      ],
+      "journal": "arXiv",
+      "year": 2019,
+      "source": "arXiv",
+      "search_term": {
+        "query": "crop yield disease impact",
+        "category": "general_agriculture",
+        "plant": "general",
+        "disease": "general",
+        "priority": "low"
+      },
+      "relevance_score": 3.0,
+      "pdf_url": "http://arxiv.org/pdf/1910.03129v1"
+    },
+    {
+      "id": "arxiv_2307.16283v1",
+      "arxiv_id": "2307.16283v1",
+      "title": "A critical examination of crop-yield data for vegetables, maize and Tea\n  for commercialized Sri Lankan biofilm biofertilizers",
+      "abstract": "With increasing global interest in microbial methods for agriculture, the\ncommercialization of biofertilizers in Sri Lanka is of general interest. The\nuse of a biofilm-biofertilizer (BFBF) commercialized in Sri Lanka is claimed to\nreduce chemical fertilizer (CF) usage by ~50 per cent while boosting harvest by\n20-30 per cent. Many countries have explored the potential of biofilm\nbiofertilizers, but have so far found mixed results. Here we review this BFBF\ncommercialized in Sri Lanka and approved for nation-wide use there. We show in\ndetail that the improved yields claimed for this BFBF fall within the\nuncertainties (error bars) of the harvest. Theoretical models that produce a\nseemingly reduced CF scenario with an \"increase\" in harvests, although this is\nin fact not so, are presented. While BFBF usage seems to improve soil quality\nin certain respects, the currently available BFBF promoted in Sri Lanka has\nnegligible impact on crop yields. We also briefly consider the potential\nnegative effects of large-scale adoption of microbial methods.",
+      "authors": [
+        "M. W. C. Dharma-wardana",
+        "Parakrama Waidyanatha",
+        "K. A. Renuka",
+        "D. Sumith de S. Abeysiriwardena",
+        "Buddhi Marambe"
+      ],
+      "categories": [
+        "q-bio.OT"
+      ],
+      "journal": "arXiv",
+      "year": 2023,
+      "source": "arXiv",
+      "search_term": {
+        "query": "crop yield disease impact",
+        "category": "general_agriculture",
+        "plant": "general",
+        "disease": "general",
+        "priority": "low"
+      },
+      "relevance_score": 3.0,
+      "pdf_url": "http://arxiv.org/pdf/2307.16283v1"
+    },
+    {
+      "id": "arxiv_2010.03323v1",
+      "arxiv_id": "2010.03323v1",
+      "title": "Computation of single-cell metabolite distributions using mixture models",
+      "abstract": "Metabolic heterogeneity is widely recognised as the next challenge in our\nunderstanding of non-genetic variation. A growing body of evidence suggests\nthat metabolic heterogeneity may result from the inherent stochasticity of\nintracellular events. However, metabolism has been traditionally viewed as a\npurely deterministic process, on the basis that highly abundant metabolites\ntend to filter out stochastic phenomena. Here we bridge this gap with a general\nmethod for prediction of metabolite distributions across single cells. By\nexploiting the separation of time scales between enzyme expression and enzyme\nkinetics, our method produces estimates for metabolite distributions without\nthe lengthy stochastic simulations that would be typically required for large\nmetabolic models. The metabolite distributions take the form of Gaussian\nmixture models that are directly computable from single-cell expression data\nand standard deterministic models for metabolic pathways. The proposed mixture\nmodels provide a systematic method to predict the impact of biochemical\nparameters on metabolite distributions. Our method lays the groundwork for\nidentifying the molecular processes that shape metabolic heterogeneity and its\nfunctional implications in disease.",
+      "authors": [
+        "Mona K Tonn",
+        "Philipp Thomas",
+        "Mauricio Barahona",
+        "Diego A Oyarzún"
+      ],
+      "categories": [
+        "q-bio.MN",
+        "q-bio.BM",
+        "q-bio.QM",
+        "q-bio.SC"
+      ],
+      "journal": "arXiv",
+      "year": 2020,
+      "source": "arXiv",
+      "search_term": {
+        "query": "crop yield disease impact",
+        "category": "general_agriculture",
+        "plant": "general",
+        "disease": "general",
+        "priority": "low"
+      },
+      "relevance_score": 2.0,
+      "pdf_url": "http://arxiv.org/pdf/2010.03323v1"
+    },
+    {
+      "id": "arxiv_1201.3232v4",
+      "arxiv_id": "1201.3232v4",
+      "title": "Immunity to Plasmodium knowlesi H strain malaria in olive baboons",
+      "abstract": "Malaria disease is a major global health and economic development threat. It\nresults in approximately 2.7 million deaths annually. There is currently no\nvaccine that has been licensed for use against malaria. Studies in animal\nmodels, especially non-human primates can lead to the revelation of possible\nimmunological mechanisms that can lead to protection or predisposition of the\nhost to malaria. Plasmodium knowlesi, a simian and human malaria parasite, is\nan attractive experimental parasite for malaria research since it can infect\nolive baboons (Papio anubis), non-human primates that have similar\nhost-pathogen interactions to humans. This study was carried out to determine\nhost immunological profiles provoked in olive baboons during the course of an\ninfection with Plasmodium knowlesi. A total of eight adult baboons were\nintravenously inoculated with overnight cultured blood stage P. knowlesi H\nstrain parasites. Five of these baboons became acutely infected while the other\nthree became chronically infected. The immunological basis of this dual outcome\nof the infection was determined by measuring circulating cytokine (T helper 1\nand T helper 2) and antibody (immunoglobulin G and immunoglobulin M) responses\nelicited in the infected baboons on a weekly basis by Enzyme Linked\nImmunosorbent Assay (ELISA) for up to six weeks post infection. Generated data\nfor the first time indicated that acute P. knowlesi malaria is accompanied by\nincreased concentrations of interferon gamma (IFN gamma), tumour necrosis\nfactor alpha (TNF alpha) and IL 6 and reduced levels of circulating interleukin\n10 (IL 10), IL 4, IL 12, immunoglobulin G (IgG) and IgM in the baboon host.\nThese results are largely agreeable with data from human studies, thereby\nincreasing the relevance of the olive baboon - P. knowlesi experimental\ninfection system for future malaria studies.",
+      "authors": [
+        "Barasa Mustafa",
+        "Maamun Jenneby",
+        "Kagasi Ambogo Esther",
+        "Ozwara Suba Hastings",
+        "Gicheru Muita Michael"
+      ],
+      "categories": [
+        "q-bio.CB",
+        "q-bio.TO"
+      ],
+      "journal": "arXiv",
+      "year": 2012,
+      "source": "arXiv",
+      "search_term": {
+        "query": "post harvest diseases",
+        "category": "general_agriculture",
+        "plant": "general",
+        "disease": "general",
+        "priority": "low"
+      },
+      "relevance_score": 1.0,
+      "pdf_url": "http://arxiv.org/pdf/1201.3232v4"
+    },
+    {
+      "id": "arxiv_2309.15936v1",
+      "arxiv_id": "2309.15936v1",
+      "title": "Genomic Analysis and Artificial Intelligence: Predicting Viral Mutations\n  and Future Pandemics",
+      "abstract": "This study presents a novel approach at the intersection of genomic analysis\nand artificial intelligence (AI) to predict viral mutations and assess the\nrisks of future pandemics. Through comprehensive genomic analysis, genetic\nmarkers associated with increased virulence and transmissibility are\nidentified. Advanced machine learning algorithms are employed to analyze\ngenetic data and forecast viral mutations, taking into account factors such as\nreplication rates, host-pathogen interactions, and environmental influences.\nThe research also evaluates the risk of future pandemics by examining zoonotic\nreservoirs, human-animal interfaces, and climate change impacts. AI-powered\nrisk assessment models provide insights into potential outbreak hotspots,\nfacilitating targeted surveillance and preventive measures. This research\noffers a proactive approach to pandemic preparedness, enabling early\nintervention and the development of effective containment strategies and\nvaccines. The fusion of genomic analysis and AI enhances our ability to\nmitigate the impact of infectious diseases on a global scale, emphasizing the\nimportance of proactive measures in safeguarding public health.",
+      "authors": [
+        "Fadhil G. Al-Amran",
+        "Abbas M. Hezam",
+        "Salman Rawaf",
+        "Maitham G. Yousif"
+      ],
+      "categories": [
+        "q-bio.OT"
+      ],
+      "journal": "arXiv",
+      "year": 2023,
+      "source": "arXiv",
+      "search_term": {
+        "query": "climate change plant diseases",
+        "category": "general_agriculture",
+        "plant": "general",
+        "disease": "general",
+        "priority": "low"
+      },
+      "relevance_score": 3.0,
+      "pdf_url": "http://arxiv.org/pdf/2309.15936v1"
+    },
+    {
+      "id": "arxiv_1902.08707v1",
+      "arxiv_id": "1902.08707v1",
+      "title": "ABM of osteoblast's mechanotransduction pathway: time patterns of\n  critical events",
+      "abstract": "Background: Mechanotransduction in bone cells plays a pivotal role in\nosteoblast differentiation and bone remodelling. Mechanotransduction provides\nthe link between modulation of the extracellular matrix and intracellular\nactions. By controlling the balance between the intracellular and extracellular\ndomains, the mechanotransduction process determines optimal functionality of\nthe skeletal dynamics, and it is one of the possible causes of\nosteophatological diseases.\n  Results: Mechanotransduction in a single osteoblast under external mechanical\nperturbations has been modelled in the agent based framework to reproduce the\ndynamics of the stochastic reaction diffusion process among molecules in the\ncytoplasm, nuclear and extracellular domains. The amount of molecules and\nfluctuations of each molecular class has been analysed in terms of recurrences\nof critical events. A numerical approach has been developed to invert\nsubordination processes and to extract the directing processes from the\nmolecular signals in order to derive the distribution of recurrence of events.\n  Conclusions: We observed large fluctuations enclose information hidden in the\nnoise which is beyond the dynamic variations of molecular baselines. Studying\nthe system under different parametric conditions and stimuli, the results have\nshown that the waiting time distributions of each molecule are a signature of\nthe system's dynamics. The behaviours of the molecular waiting times change\nwith the changing of parameters presenting the same variation of patterns for\nsimilar interacting molecules and identifying specific alterations for key\nmolecules in the mechanotransduction pathway.",
+      "authors": [
+        "Gianluca Ascolani",
+        "Timothy M. Skerry",
+        "Damien Lacroix",
+        "Enrico Dall'Ara",
+        "Aban Shuaib"
+      ],
+      "categories": [
+        "q-bio.SC",
+        "q-bio.CB",
+        "q-bio.MN"
+      ],
+      "journal": "arXiv",
+      "year": 2019,
+      "source": "arXiv",
+      "search_term": {
+        "query": "climate change plant diseases",
+        "category": "general_agriculture",
+        "plant": "general",
+        "disease": "general",
+        "priority": "low"
+      },
+      "relevance_score": 2.0,
+      "pdf_url": "http://arxiv.org/pdf/1902.08707v1"
+    },
+    {
+      "id": "arxiv_1010.0919v1",
+      "arxiv_id": "1010.0919v1",
+      "title": "Modeling the effects of cymene on the distribution of germination and\n  growth of Beauveria bassiana",
+      "abstract": "Essential oils have antifungal and antipathogenic effects and therefore are\ntargets in plant pathology research for their potential uses as natural\nsubstitutes for inorganic plant pesticides. Beauveria bassiana, an\nentomopathogenic fungus, can endophytically colonize a vast number of plant\nspecies and trigger induced systemic resistance against plant pathogens. Spore\ngermination is the most vulnerable in the fungal life cycle and is therefore a\ngood candidate for monitoring the effect of essential oils on the growth of B.\nbassiana. Percentage germination of fungal spores and length of germination\ntubes were recorded from experiments. A mathematical model that was able to\ncapture the effects of cymene, an essential oil produced by Monarda, on the\ngermination and growth was developed. This is the first report of a model for\nthe impact of essential oils on B. bassiana spore germination.",
+      "authors": [
+        "Luong Nguyen",
+        "Dubravka Bodiroga",
+        "Reka Kelemen",
+        "Jaewook Joo",
+        "Kimberly D. Gwinn"
+      ],
+      "categories": [
+        "q-bio.QM",
+        "q-bio.SC"
+      ],
+      "journal": "arXiv",
+      "year": 2010,
+      "source": "arXiv",
+      "search_term": {
+        "query": "plant pathology research",
+        "category": "general_agriculture",
+        "plant": "general",
+        "disease": "general",
+        "priority": "low"
+      },
+      "relevance_score": 3.0,
+      "pdf_url": "http://arxiv.org/pdf/1010.0919v1"
+    },
+    {
+      "id": "arxiv_1210.6605v1",
+      "arxiv_id": "1210.6605v1",
+      "title": "Florigenic and antiflorigenic signalling in plants",
+      "abstract": "The evidence that Flowering Locus T (FT) protein and its paralog Twin Sister\nof FT, act as the long distance floral stimulus, or at least that they are part\nof it in diverse plant species, has attracted much attention in recent years.\nStudies to understand the physiological and molecular apparatuses that\nintegrate spatial and temporal signals to regulate developmental transition in\nplants have occupied countless scientists and have resulted in an unmanageably\nlarge amount of research data. Analysis of these data has helped to identify\nmultiple systemic florigenic and antiflorigenic regulators. This study gives an\noverview of the recent research on gene products, phytohormones and other\nmetabolites that have been demonstrated to have florigenic or antiflorigenic\nfunctions in plants.",
+      "authors": [
+        "I. G. Matsoukas",
+        "A. J. Massiah",
+        "B. Thomas"
+      ],
+      "categories": [
+        "q-bio.BM",
+        "q-bio.GN",
+        "q-bio.MN",
+        "q-bio.TO"
+      ],
+      "journal": "arXiv",
+      "year": 2012,
+      "source": "arXiv",
+      "search_term": {
+        "query": "plant pathology research",
+        "category": "general_agriculture",
+        "plant": "general",
+        "disease": "general",
+        "priority": "low"
+      },
+      "relevance_score": 2.0,
+      "pdf_url": "http://arxiv.org/pdf/1210.6605v1"
+    },
+    {
+      "id": "arxiv_1410.0587v1",
+      "arxiv_id": "1410.0587v1",
+      "title": "The effect of spatial scales on the reproductive fitness of plant\n  pathogens",
+      "abstract": "Plant diseases often cause serious yield losses in agriculture. A pathogen's\nreproductive fitness can be quantified by the basic reproductive number, R0.\nSince pathogen transmission between host plants depends on the spatial\nseparation between them, R0 is strongly influenced by the spatial scales of\npathogen dispersal and the spatial scales of the host population. The basic\nreproductive number was found to increase with the field size at small field\nsizes and to saturate to a constant value at large field sizes. It reaches a\nmaximum in quadratic fields and decreases as the field becomes elongated. This\npattern appears to be quite general: it holds for dispersal kernels that\ndecrease exponentially or faster as well as for \"fat-tailed\" dispersal kernels\nthat decrease slower than exponential (i.e. power-law kernels). We used this\napproach to estimate R0 in wheat stripe rust (an important pathogen caused by\nPuccinia striiformis), since disease gradients for this pathogen were\nthoroughly measured over large distances [Sackett and Mundt, Phytopathology,\n95, 983 (2005)]. For the two largest datasets, we estimated R0 in the limit of\nlarge fields to be of the order of 50. These estimates are consistent with\nindependent field observations [Cowger et al. (2005), Phytopathology, 95,\n97282; Farber et al. (2013), Phytopathology, 103, 41]. We present a proof of\nprinciple of a novel approach to estimate the basic reproductive number, R0, of\nplant pathogens using wheat stripe rust as a case study. We found that the\nspatial extent over which R0 changes strongly is quite fine-scaled (about 30 m\nof the linear extension of the field). Our results indicate that in order to\noptimize the spatial scale of deployment of fungicides or host resistances, the\nadjustments should be made at a fine spatial scale.",
+      "authors": [
+        "Alexey Mikaberidze",
+        "Christopher C. Mundt",
+        "Sebastian Bonhoeffer"
+      ],
+      "categories": [
+        "q-bio.PE",
+        "q-bio.QM"
+      ],
+      "journal": "arXiv",
+      "year": 2014,
+      "source": "arXiv",
+      "search_term": {
+        "query": "phytopathology",
+        "category": "general_agriculture",
+        "plant": "general",
+        "disease": "general",
+        "priority": "low"
+      },
+      "relevance_score": 1.0,
+      "pdf_url": "http://arxiv.org/pdf/1410.0587v1"
+    },
+    {
+      "id": "arxiv_2503.11747v1",
+      "arxiv_id": "2503.11747v1",
+      "title": "Physical Principles of Quantum Biology",
+      "abstract": "This technical monograph provides a comprehensive overview of the field of\nquantum biology. It approaches quantum biology from a physical perspective with\ncore quantum mechanical concepts presented foremost to provide a theoretical\nfoundation for the field. An extensive body of research is covered to clarify\nthe significance of quantum biology as a scientific field, outlining the\nfield's long-standing importance in the historical development of quantum\ntheory. This lays the essential groundwork to enable further advances in\nnanomedicine and biotechnology. Written for academics, biological science\nresearchers, physicists, biochemists, medical technologists, and students of\nquantum mechanics, this text brings clarity to fundamental advances being made\nin the emerging science of quantum biology.",
+      "authors": [
+        "Nathan S. Babcock",
+        "Brandy N. Babcock"
+      ],
+      "categories": [
+        "physics.bio-ph",
+        "q-bio.BM",
+        "q-bio.CB",
+        "q-bio.SC",
+        "q-bio.TO",
+        "quant-ph"
+      ],
+      "journal": "arXiv",
+      "year": 2025,
+      "source": "arXiv",
+      "search_term": {
+        "query": "agricultural biotechnology",
+        "category": "general_agriculture",
+        "plant": "general",
+        "disease": "general",
+        "priority": "low"
+      },
+      "relevance_score": 1.0,
+      "pdf_url": "http://arxiv.org/pdf/2503.11747v1"
+    },
+    {
+      "id": "arxiv_2208.05019v1",
+      "arxiv_id": "2208.05019v1",
+      "title": "Automated Infectious Disease Forecasting: Use-cases and Practical\n  Considerations for Pipeline Implementation",
+      "abstract": "Real-time forecasting of disease outbreaks requires standardized outputs\ngenerated in a timely manner. Development of pipelines to automate infectious\ndisease forecasts can ensure that parameterization and software dependencies\nare common to any execution of the forecasting code. Here we present our\nimplementation of an automated cloud computing pipeline to forecast infectious\ndisease outcomes, with examples of usage to forecast COVID-19 and influenza\ntargets. We also offer our perspective on the limits of automation and\nimportance of human-in-the-loop automated infectious disease forecasting.",
+      "authors": [
+        "VP Nagraj",
+        "Chris Hulme-Lowe",
+        "Shakeel Jessa",
+        "Stephen D. Turner"
+      ],
+      "categories": [
+        "q-bio.OT"
+      ],
+      "journal": "arXiv",
+      "year": 2022,
+      "source": "arXiv",
+      "search_term": {
+        "query": "disease forecasting",
+        "category": "general_agriculture",
+        "plant": "general",
+        "disease": "general",
+        "priority": "low"
+      },
+      "relevance_score": 2.0,
+      "pdf_url": "http://arxiv.org/pdf/2208.05019v1"
+    },
+    {
+      "id": "arxiv_1808.05755v2",
+      "arxiv_id": "1808.05755v2",
+      "title": "The triennial International Pigment Cell Conference (IPCC)",
+      "abstract": "The International Federation of Pigment Cell Societies (IFPCS) held its XXIII\ntriennial International Pigment Cell Conference (IPCC) in Denver, Colorado in\nAugust 2017. The goal of the summit was to provide a venue promoting a vibrant\ninterchange among leading basic and clinical researchers working on\nleading-edge aspects of melanocyte biology and disease. The philosophy of the\nmeeting, entitled Breakthroughs in Pigment Cell and Melanoma Research, was to\ndeliver a comprehensive program in an inclusive environment fostering\nscientific exchange and building new academic bridges. This document provides\nan outlook on the history, accomplishments, and sustainability of the pigment\ncell and melanoma research community. Shared progress in the understanding of\ncellular homeostasis of pigment cells but also clinical successes and hurdles\nin the treatment of melanoma and dermatological disorders continue to drive\nfuture research activities. A sustainable direction of the societies creates an\ninternational forum identifying key areas of imminent needs in laboratory\nresearch and clinical care and ensures the future of this vibrant, diverse and\nunique research community at the same time. Important advances showcase wealth\nand breadth of the field in melanocyte and melanoma research and include\nemerging frontiers in melanoma immunotherapy, medical and surgical oncology,\ndermatology, vitiligo, albinism, genomics and systems biology, precision\nbench-to-bedside approaches, epidemiology, pigment biophysics and chemistry,\nand evolution. This report recapitulates highlights of the federate meeting\nagenda designed to advance clinical and basic research frontiers from melanoma\nand dermatological sciences followed by a historical perspective of the\nassociated societies and conferences.",
+      "authors": [
+        "Neil F. Box",
+        "Lionel Larue",
+        "Prashiela Manga",
+        "Lluis Montoliu",
+        "Richard A. Spritz",
+        "Fabian V. Filipp"
+      ],
+      "categories": [
+        "q-bio.OT",
+        "q-bio.TO"
+      ],
+      "journal": "arXiv",
+      "year": 2018,
+      "source": "arXiv",
+      "search_term": {
+        "query": "precision agriculture diseases",
+        "category": "general_agriculture",
+        "plant": "general",
+        "disease": "general",
+        "priority": "low"
+      },
+      "relevance_score": 1.0,
+      "pdf_url": "http://arxiv.org/pdf/1808.05755v2"
+    },
+    {
+      "id": "arxiv_2304.00402v1",
+      "arxiv_id": "2304.00402v1",
+      "title": "Resistance Management for Cancer: Lessons from Farmers",
+      "abstract": "One of the main reasons we have not been able to cure cancers is that drugs\nselect for drug-resistant cancer cells. Pest managers face similar challenges\nwith pesticides selecting for pesticide-resistant organisms. Lessons in pest\nmanagement have led to four heuristics that can be translated to controlling\ncancers 1. limit use (of chemical controls or modes of action to the lowest\npractical levels) 2. diversify use (of modes of action largely through\nrotations of chemical controls) 3. partition chemistry (modes of action through\nspace and time, which in effect is a refuge management strategy) and 4. include\nnon-chemical methods. These principles are general to all cancers and cancer\ndrugs, and thus should be employed to improve oncology. We review the parallel\ndifficulties in controlling the evolution of drug resistance in pests and\ncancer cells, and describe the results of single- and multi-drug strategies in\nagriculture and oncology. We dissect the methods that pest managers use to\nprevent the evolution of pesticide resistance, showing how integrated pest\nmanagement inspired the development of adaptive therapy in oncology to\nstabilize tumor size, and increase progression-free survival and quality of\nlife of patients. Finally, we demonstrate these principles in a proposal for\nclinical trials in colorectal cancer.",
+      "authors": [
+        "Sareh Seyedi",
+        "Valerie K. Harris",
+        "Stefania E. Kapsetaki",
+        "Daniel Saha",
+        "Zachary Compton",
+        "Rezvan Yousefi",
+        "Alexander May",
+        "Efe Fakir",
+        "Amy M. Boddy",
+        "Marco Gerlinger",
+        "Christina Wu",
+        "Lida Mina",
+        "Silvie Huijben",
+        "Dawn H. Gouge",
+        "Luis Cisneros",
+        "Peter C. Ellsworth",
+        "Carlo C. Maley"
+      ],
+      "categories": [
+        "q-bio.PE"
+      ],
+      "journal": "arXiv",
+      "year": 2023,
+      "source": "arXiv",
+      "search_term": {
+        "query": "integrated pest management",
+        "category": "general_agriculture",
+        "plant": "general",
+        "disease": "general",
+        "priority": "low"
+      },
+      "relevance_score": 3.0,
+      "pdf_url": "http://arxiv.org/pdf/2304.00402v1"
+    },
+    {
+      "id": "arxiv_2307.15228v1",
+      "arxiv_id": "2307.15228v1",
+      "title": "Integrative AI-Driven Strategies for Advancing Precision Medicine in\n  Infectious Diseases and Beyond: A Novel Multidisciplinary Approach",
+      "abstract": "Precision medicine, tailored to individual patients based on their genetics,\nenvironment, and lifestyle, shows promise in managing complex diseases like\ninfections. Integrating artificial intelligence (AI) into precision medicine\ncan revolutionize disease management. This paper introduces a novel approach\nusing AI to advance precision medicine in infectious diseases and beyond. It\nintegrates diverse fields, analyzing patients' profiles using genomics,\nproteomics, microbiomics, and clinical data. AI algorithms process vast data,\nproviding insights for precise diagnosis, treatment, and prognosis. AI-driven\npredictive modeling empowers healthcare providers to make personalized and\neffective interventions. Collaboration among experts from different domains\nrefines AI models and ensures ethical and robust applications. Beyond\ninfections, this AI-driven approach can benefit other complex diseases.\nPrecision medicine powered by AI has the potential to transform healthcare into\na proactive, patient-centric model. Research is needed to address privacy,\nregulations, and AI integration into clinical workflows. Collaboration among\nresearchers, healthcare institutions, and policymakers is crucial in harnessing\nAI-driven strategies for advancing precision medicine and improving patient\noutcomes.",
+      "authors": [
+        "Ghizal fatima",
+        "Risala H. Allami",
+        "Maitham G. Yousif"
+      ],
+      "categories": [
+        "q-bio.OT"
+      ],
+      "journal": "arXiv",
+      "year": 2023,
+      "source": "arXiv",
+      "search_term": {
+        "query": "integrated pest management",
+        "category": "general_agriculture",
+        "plant": "general",
+        "disease": "general",
+        "priority": "low"
+      },
+      "relevance_score": 1.0,
+      "pdf_url": "http://arxiv.org/pdf/2307.15228v1"
+    },
+    {
+      "id": "arxiv_2207.03540v1",
+      "arxiv_id": "2207.03540v1",
+      "title": "Data integration in systems genetics and aging research",
+      "abstract": "Human life expectancy has dramatically improved over the course of the last\ncentury. Although this reflects a global improvement in sanitation and medical\ncare, this also implies that more people suffer from diseases that typically\nmanifest later in life, like Alzheimer and atherosclerosis. Increasing\nhealthspan by delaying or reverting the development of these age-related\ndiseases has therefore become an urgent challenge in biomedical research.\nResearch in this field is complicated by the multi-factorial nature of\nage-related diseases. They are rooted in complex physiological mechanisms\nimpacted by heritable, environment and life-style factors that can be unique to\neach individual. Although technological advances in high-throughput\nbiomolecular assays have enabled researchers to investigate individual\nphysiology at the molecular level, integrating information about its different\ncomponents, and accounting for individual variations remains a challenge. We\nare using a large collection of omics and phenotype data derived from the BXD\nmouse genetic diversity panel to explore how good data management practices, as\nfostered by the FAIR principles, paired with an explainable artificial\nintelligence framework, can provide solutions to decipher the complex roots of\nage-related diseases. These developments will help to propose innovative\napproaches to extend healthspan in the aging global population.",
+      "authors": [
+        "Alexis Rapin",
+        "Maroun Bou Sleiman",
+        "Johan Auwerx"
+      ],
+      "categories": [
+        "q-bio.OT"
+      ],
+      "journal": "arXiv",
+      "year": 2022,
+      "source": "arXiv",
+      "search_term": {
+        "query": "integrated pest management",
+        "category": "general_agriculture",
+        "plant": "general",
+        "disease": "general",
+        "priority": "low"
+      },
+      "relevance_score": 1.0,
+      "pdf_url": "http://arxiv.org/pdf/2207.03540v1"
+    },
+    {
+      "id": "arxiv_1301.6561v2",
+      "arxiv_id": "1301.6561v2",
+      "title": "Can high risk fungicides be used in mixtures without selecting for\n  fungicide resistance?",
+      "abstract": "Fungicide mixtures produced by the agrochemical industry often contain\nlow-risk fungicides, to which fungal pathogens are fully sensitive, together\nwith high-risk fungicides known to be prone to fungicide resistance. Can these\nmixtures provide adequate disease control while minimizing the risk for the\ndevelopment of resistance? We present a population dynamics model to address\nthis question. We found that the fitness cost of resistance is a crucial\nparameter to determine the outcome of competition between the sensitive and\nresistant pathogen strains and to assess the usefulness of a mixture. If\nfitness costs are absent, then the use of the high-risk fungicide in a mixture\nselects for resistance and the fungicide eventually becomes nonfunctional. If\nthere is a cost of resistance, then an optimal ratio of fungicides in the\nmixture can be found, at which selection for resistance is expected to vanish\nand the level of disease control can be optimized.",
+      "authors": [
+        "Alexey Mikaberidze",
+        "Bruce A. McDonald",
+        "Sebastian Bonhoeffer"
+      ],
+      "categories": [
+        "q-bio.PE"
+      ],
+      "journal": "arXiv",
+      "year": 2013,
+      "source": "arXiv",
+      "search_term": {
+        "query": "fungicide resistance",
+        "category": "general_agriculture",
+        "plant": "general",
+        "disease": "general",
+        "priority": "low"
+      },
+      "relevance_score": 2.0,
+      "pdf_url": "http://arxiv.org/pdf/1301.6561v2"
+    },
+    {
+      "id": "arxiv_2007.10823v1",
+      "arxiv_id": "2007.10823v1",
+      "title": "Can animal manure be used to increase soil organic carbon stocks in the\n  Mediterranean as a mitigation climate change strategy?",
+      "abstract": "Soil organic carbon (SOC) plays an important role on improving soil\nconditions and soil functions. Increasing land use changes have induced an\nimportant decline of SOC content at global scale. Increasing SOC in\nagricultural soils has been proposed as a strategy to mitigate climate change.\nAnimal manure has the characteristic of enriching SOC, when applied to crop\nfields, while, in parallel, it could constitute a natural fertilizer for the\ncrops. In this paper, a simulation is performed using the area of Catalonia,\nSpain as a case study for the characteristic low SOC in the Mediterranean, to\nexamine whether animal manure can improve substantially the SOC of agricultural\nfields, when applied as organic fertilizers. Our results show that the policy\ngoals of the 4x1000 strategy can be achieved only partially by using manure\ntransported to the fields. This implies that the proposed approach needs to be\ncombined with other strategies.",
+      "authors": [
+        "Andreas Kamilaris",
+        "Immaculada Funes Mesa",
+        "Robert Savé",
+        "Felicidad De Herralde",
+        "Francesc X. Prenafeta-Boldú"
+      ],
+      "categories": [
+        "q-bio.OT"
+      ],
+      "journal": "arXiv",
+      "year": 2020,
+      "source": "arXiv",
+      "search_term": {
+        "query": "crop protection strategies",
+        "category": "general_agriculture",
+        "plant": "general",
+        "disease": "general",
+        "priority": "low"
+      },
+      "relevance_score": 2.0,
+      "pdf_url": "http://arxiv.org/pdf/2007.10823v1"
+    }
+  ],
+  "statistics": {
+    "total_papers": 69,
+    "downloaded_pdfs": 327,
+    "search_terms_used": 97,
+    "source_distribution": {
+      "pubmed": 0,
+      "arxiv": 328,
+      "biorxiv": 0
+    },
+    "categories_covered": 7,
+    "average_relevance": 2.2753623188405796,
+    "year_range": {
+      "min": 2010,
+      "max": 2025
+    },
+    "timestamp": 1748521747.8063118
+  }
+}

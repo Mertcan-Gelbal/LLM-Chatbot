@@ -1,0 +1,93 @@
+# Gelişmiş Gerçek Akademik Makale İndirme ve İşleme Paketleri
+
+# HTTP ve Async işlemler
+aiohttp==3.9.1
+asyncio-throttle==1.0.2
+httpx==0.25.2
+
+# PDF işleme ve analiz
+PyMuPDF==1.23.14
+pypdf2==3.0.1
+pdfplumber==0.10.3
+pdfminer==20191125
+
+# Görüntü işleme
+Pillow==10.1.0
+opencv-python==4.8.1.78
+
+# NLP ve Embedding (Çok dilli destek)
+sentence-transformers==2.2.2
+transformers==4.36.2
+torch==2.1.2
+spacy==3.7.2
+
+# Vektör indeksleme ve arama
+faiss-cpu==1.7.4
+numpy==1.24.4
+hnswlib==0.7.0
+
+# Veri işleme ve analiz
+pandas==2.1.4
+scikit-learn==1.3.2
+scipy==1.11.4
+
+# XML ve HTML işleme
+lxml==4.9.3
+beautifulsoup4==4.12.2
+html5lib==1.1
+
+# JSON ve dosya işleme
+jsonlines==4.0.0
+ujson==5.8.0
+
+# Logging ve progress
+tqdm==4.66.1
+loguru==0.7.2
+
+# Web scraping ve API işlemleri
+requests==2.31.0
+urllib3==2.1.0
+selenium==4.15.2
+
+# Regex ve metin işleme
+regex==2023.10.3
+Unidecode==1.3.7
+
+# Tarih ve zaman
+python-dateutil==2.8.2
+dateparser==1.2.0
+
+# Matematik ve istatistik
+scipy==1.11.4
+networkx==3.2.1
+
+# Konfigürasyon
+pyyaml==6.0.1
+python-dotenv==1.0.0
+
+# Database (opsiyonel)
+sqlite3
+sqlalchemy==2.0.23
+
+# Hata ayıklama ve profiling
+ipython==8.18.1
+memory-profiler==0.61.0
+
+# Görselleştirme (opsiyonel)
+matplotlib==3.8.2
+seaborn==0.13.0
+plotly==5.17.0
+
+# Özel API entegrasyonları
+scholarly==1.7.11  # Google Scholar
+arxiv==1.4.8       # arXiv API
+biopython==1.81     # Biyoinformatik
+
+# Performans optimizasyonu
+numba==0.58.1
+joblib==1.3.2
+multiprocessing-logging==0.3.4
+
+# Güvenlik
+cryptography==41.0.8
+certifi==2023.11.17 

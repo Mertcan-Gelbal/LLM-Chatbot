@@ -1,0 +1,315 @@
+{
+  "real_papers": {
+    "total_count": 182,
+    "sources": {
+      "arxiv": 167,
+      "pubmed": 15,
+      "other": 0
+    },
+    "topics": {
+      "rice": 6,
+      "detection": 15,
+      "disease": 21,
+      "deep learning": 6,
+      "wheat": 4,
+      "fungal": 2,
+      "soybean": 4,
+      "crop": 2,
+      "plant": 10,
+      "corn": 2,
+      "cotton": 6,
+      "machine learning": 1,
+      "management": 2,
+      "pathogen": 1,
+      "control": 1,
+      "bacterial": 1
+    },
+    "years": {
+      "9704": 1,
+      "1404": 1,
+      "2309": 4,
+      "2312": 3,
+      "2011": 5,
+      "1708": 1,
+      "2211": 2,
+      "2110": 1,
+      "1705": 1,
+      "1512": 2,
+      "2408": 1,
+      "2501": 4,
+      "1710": 2,
+      "2001": 1,
+      "2010": 1,
+      "2207": 1,
+      "2505": 1,
+      "1605": 2,
+      "2307": 4,
+      "2311": 2,
+      "2301": 2,
+      "1803": 1,
+      "2310": 1,
+      "2104": 2,
+      "2004": 6,
+      "2403": 2,
+      "2502": 5,
+      "1810": 1,
+      "1211": 1,
+      "1808": 2,
+      "2302": 2,
+      "1505": 1,
+      "0806": 1,
+      "1804": 2,
+      "0711": 1,
+      "1410": 3,
+      "1909": 1,
+      "2008": 2,
+      "0011": 1,
+      "2205": 2,
+      "1904": 1,
+      "1911": 1,
+      "2404": 1,
+      "2206": 3,
+      "1306": 1,
+      "2105": 3,
+      "2209": 2,
+      "2409": 1,
+      "0406": 1,
+      "2503": 4,
+      "1403": 1,
+      "1910": 2,
+      "1907": 1,
+      "2007": 2,
+      "1401": 1,
+      "1210": 1,
+      "1302": 2,
+      "2504": 1,
+      "1303": 1,
+      "2401": 2,
+      "2003": 2,
+      "2405": 1,
+      "2208": 3,
+      "2204": 1,
+      "2112": 1,
+      "0504": 1,
+      "2306": 2,
+      "1201": 1,
+      "1902": 2,
+      "1603": 1,
+      "0811": 1,
+      "0812": 1,
+      "0612": 1,
+      "1109": 1,
+      "2202": 1,
+      "0903": 1,
+      "1807": 1,
+      "0706": 1,
+      "2303": 2,
+      "1405": 1,
+      "2009": 2,
+      "2304": 1,
+      "2412": 2,
+      "1412": 1,
+      "1411": 1,
+      "1901": 1,
+      "1805": 1,
+      "1301": 1,
+      "1308": 1,
+      "2411": 1,
+      "2406": 1,
+      "1608": 2,
+      "1611": 1,
+      "1206": 1,
+      "2005": 2,
+      "1610": 1,
+      "2106": 1,
+      "1304": 1,
+      "2402": 1,
+      "1511": 1,
+      "0801": 1,
+      "2308": 1,
+      "1010": 1,
+      "0407": 1,
+      "2111": 1,
+      "0312": 1
+    },
+    "size_stats": {
+      "average_mb": 2.43,
+      "total_mb": 442.0,
+      "min_mb": 0.03,
+      "max_mb": 22.66
+    }
+  },
+  "synthetic_papers": {
+    "total_count": 1000,
+    "total_words": 4419339,
+    "total_pages": 14962,
+    "avg_words_per_paper": 4419.0,
+    "avg_pages_per_paper": 15.0,
+    "diversity": {
+      "unique_plants": 58,
+      "unique_diseases": 40,
+      "unique_methodologies": 30
+    },
+    "top_plants": {
+      "Kabak": 26,
+      "Nar": 25,
+      "Biber": 24,
+      "Buğday": 23,
+      "Patates": 22,
+      "Ayçiçeği": 22,
+      "Soğan": 21,
+      "Karnabahar": 21,
+      "Mısır": 21,
+      "Erik": 21
+    },
+    "top_diseases": {
+      "Toksisite": 50,
+      "Tuzluluk stresi": 47,
+      "Gövde nematodu": 41,
+      "Serbest nematod": 40,
+      "Yaprak nematodu": 39,
+      "Su stresi": 37,
+      "Beslenme bozukluğu": 36,
+      "Kök ur nematodu": 36,
+      "pH dengesizliği": 34,
+      "Sıcaklık stresi": 34
+    },
+    "top_methodologies": {
+      "Remote Sensing": 48,
+      "Thermal Imaging": 44,
+      "Biomarker Analysis": 42,
+      "Microscopy": 41,
+      "DNA Sequencing": 39,
+      "Flow Cytometry": 39,
+      "Metabolomics": 37,
+      "Genomics": 36,
+      "Artificial Intelligence": 36,
+      "Spectroscopy": 36
+    },
+    "quality_scores": {
+      "avg_academic": 8.63,
+      "avg_relevance": 8.79
+    }
+  },
+  "academic_papers": {
+    "total_count": 973,
+    "categories": {
+      "organik_tarım": 88,
+      "iklim_adaptasyonu": 98,
+      "verim_optimizasyonu": 95,
+      "toprak_koşulları": 57,
+      "hastalık_mücadele": 57,
+      "beslenme": 56,
+      "uzaktan_algılama": 57,
+      "su_yönetimi": 52,
+      "yapay_zeka": 55,
+      "moleküler": 73,
+      "verim_artırma": 51,
+      "iklim_koşulları": 51,
+      "entegre_mücadele": 74,
+      "genetik_çeşitlilik": 49,
+      "epidemiyoloji": 60
+    },
+    "unique_combinations": 12,
+    "combination_examples": [
+      [
+        "genetik",
+        "çeşitlilik"
+      ],
+      [
+        "organik",
+        "tarım"
+      ],
+      [
+        "iklim",
+        "koşulları"
+      ],
+      [
+        "entegre",
+        "mücadele"
+      ],
+      [
+        "iklim",
+        "adaptasyonu"
+      ],
+      [
+        "verim",
+        "artırma"
+      ],
+      [
+        "toprak",
+        "koşulları"
+      ],
+      [
+        "verim",
+        "optimizasyonu"
+      ],
+      [
+        "uzaktan",
+        "algılama"
+      ],
+      [
+        "hastalık",
+        "mücadele"
+      ],
+      [
+        "yapay",
+        "zeka"
+      ],
+      [
+        "su",
+        "yönetimi"
+      ]
+    ]
+  },
+  "overall_stats": {
+    "total_papers": 2155,
+    "real_papers": 182,
+    "synthetic_papers": 1000,
+    "academic_papers": 973,
+    "total_words": 4419339,
+    "total_pages": 14962,
+    "total_size_mb": 942.0,
+    "data_types": {
+      "pdf_documents": 182,
+      "synthetic_articles": 1000,
+      "metadata_entries": 973
+    }
+  },
+  "coverage_analysis": {
+    "major_crops": {
+      "covered": 5,
+      "total": 7,
+      "percentage": 71.4
+    },
+    "disease_types": {
+      "covered": 2,
+      "total": 5,
+      "percentage": 40.0
+    },
+    "detection_methods": {
+      "covered": 4,
+      "total": 4,
+      "percentage": 100.0
+    },
+    "management_approaches": {
+      "covered": 0,
+      "total": 3,
+      "percentage": 0.0
+    }
+  },
+  "quality_metrics": {
+    "dataset_size_score": 100.0,
+    "diversity_score": 85.33333333333334,
+    "coverage_score": 52.85,
+    "synthetic_quality_score": 86.30000000000001,
+    "balance_score": 18.2
+  },
+  "recommendations": [
+    "✅ Veri seti yeterli büyüklükte",
+    "✅ Bitki çeşitliliği yeterli",
+    "✅ Hastalık çeşitliliği yeterli",
+    "⚠️ Bu alanlarda kapsam düşük: disease_types, management_approaches",
+    "🟡 Gerçek makale oranı artırılabilir"
+  ]
+}
