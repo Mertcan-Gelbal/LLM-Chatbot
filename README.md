@@ -33,8 +33,17 @@ Bu proje, tarımsal metinleri 6 kategoride sınıflandıran gelişmiş bir BERT 
 ## 🚀 Hızlı Başlangıç
 
 ### 1. **Model Eğitimi (İlk Defa)**
+
+#### 🪄 Jupyter Notebook ile (Önerilen)
 ```bash
-# Eğitim verilerini hazırla
+# Interaktif eğitim - adım adım açıklamalı
+cd CreateModel
+jupyter notebook botanical_bert_complete.ipynb
+```
+
+#### 💻 Python Script ile
+```bash
+# Otomatik eğitim
 cd CreateModel
 python train_model.py
 ```

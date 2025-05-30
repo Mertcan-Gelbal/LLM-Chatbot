@@ -17,7 +17,7 @@ warnings.filterwarnings('ignore')
 class BotanicalBERTPredictor:
     """Botanical BERT Tahmin Sistemi"""
     
-    def __init__(self, model_path="botanical_bert_model"):
+    def __init__(self, model_path="botanical_bert_small"):
         self.model_path = model_path
         self.model = None
         self.tokenizer = None
@@ -49,6 +49,12 @@ class BotanicalBERTPredictor:
     def load_model(self):
         """Model ve tokenizer'ı yükle"""
         print(f"🤖 Model yükleniyor: {self.model_path}")
+        
+        # Mutlak yol oluştur
+        if not os.path.isabs(self.model_path):
+            # Script'in bulunduğu dizinden relative path
+            script_dir = os.path.dirname(os.path.abspath(__file__))
+            self.model_path = os.path.join(script_dir, self.model_path)
         
         if not os.path.exists(self.model_path):
             print(f"❌ Model bulunamadı: {self.model_path}")
@@ -208,10 +214,25 @@ class BotanicalBERTPredictor:
 
 def predict_text(text):
     """Basit tahmin fonksiyonu (dış kullanım için)"""
-    predictor = BotanicalBERTPredictor()
-    if predictor.model is None:
-        return None
-    return predictor.predict_text(text)
+    try:
+        predictor = BotanicalBERTPredictor()
+        if predictor.model is None:
+            return {'error': 'Model yüklenemedi'}
+        
+        result = predictor.predict_text(text)
+        if result is None:
+            return {'error': 'Tahmin yapılamadı'}
+        
+        # Chatbot ile uyumlu format
+        return {
+            'category': result['predicted_category'],
+            'category_turkish': result['category_turkish'],
+            'confidence': result['confidence'],
+            'text': result['text'],
+            'timestamp': result['timestamp']
+        }
+    except Exception as e:
+        return {'error': str(e)}
 
 def main():
     """Ana fonksiyon"""

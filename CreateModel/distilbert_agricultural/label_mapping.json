@@ -1,0 +1,20 @@
+{
+  "label_to_id": {
+    "crop_management": 0,
+    "environmental_factors": 1,
+    "food_security": 2,
+    "general_agriculture": 3,
+    "plant_disease": 4,
+    "plant_genetics": 5,
+    "technology": 6
+  },
+  "id_to_label": {
+    "0": "crop_management",
+    "1": "environmental_factors",
+    "2": "food_security",
+    "3": "general_agriculture",
+    "4": "plant_disease",
+    "5": "plant_genetics",
+    "6": "technology"
+  }
+}

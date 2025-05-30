@@ -4,10 +4,52 @@ Bu klasör, Botanical BERT modelini eğitmek için gerekli dosyaları içerir.
 
 ## Hızlı Başlangıç
 
+### 🪄 Jupyter Notebook (Önerilen)
 ```bash
-# Model eğitimini başlat
+# Jupyter notebook ile adım adım eğitim
+cd CreateModel
+jupyter notebook botanical_bert_complete.ipynb
+```
+
+### 💻 Python Script ile
+```bash
+# Direkt script ile eğitim
 cd CreateModel
 python train_model.py
+```
+
+## 📋 Dosyalar
+
+- `botanical_bert_complete.ipynb` - **Kapsamlı Jupyter notebook** (ÖNERİLEN)
+- `train_model.py` - Basit Python eğitim scripti
+- `README.md` - Bu dosya
+
+## 🪄 Jupyter Notebook Özellikleri
+
+### İçerik
+1. **Kurulum ve Konfigürasyon** - Paket kurulumu ve import'lar
+2. **Dataset Analizi** - Veri görselleştirme ve istatistikler
+3. **Model Konfigürasyonu** - BERT modelini optimize etme
+4. **Model Eğitimi** - Adım adım training süreci
+5. **Evaluation** - Detaylı performans analizi
+6. **Model Kullanımı** - Inference ve test örnekleri
+7. **İnteraktif Demo** - Canlı model testi
+
+### Avantajları
+- ✅ **Görsel analiz** - Grafik ve plot'lar
+- ✅ **Adım adım açıklama** - Her cell detaylı açıklamalı
+- ✅ **İnteraktif** - Kodu değiştirip tekrar çalıştırabilirsiniz
+- ✅ **Hata ayıklama** - Kolay debugging
+- ✅ **Öğrenme** - BERT'i anlamak için ideal
+
+### Çalıştırma
+```bash
+# Jupyter'i başlat
+cd CreateModel
+jupyter notebook
+
+# Tarayıcıdan botanical_bert_complete.ipynb açın
+# Hücreleri sırayla çalıştırın (Shift+Enter)
 ```
 
 ## Eğitim Süreci

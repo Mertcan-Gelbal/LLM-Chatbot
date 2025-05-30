@@ -1,0 +1,231 @@
+# 🌾 Tarımsal AI Projesi - Test ve Çalıştırma Komutları
+
+## ⚡ HIZLI BAŞLANGIÇ (5 dakika)
+
+# 1. Proje dizinine git ve bağımlılıkları yükle
+cd project_structure_reorganized
+pip install -r requirements.txt
+
+# 2. En basit modeli eğit ve test et (BERT)
+cd 02_models/bert_classification/
+python simple_agricultural_bert.py    # → BERT modelini eğitir (~5 dk)
+
+# 3. Chatbot'u çalıştır
+cd ../../04_deployment/chatbots/
+python simple_agricultural_chatbot.py  # → Chatbot'u başlatır
+
+## 📊 MODEL EĞİTİMİ
+
+### BERT Classification (Basit, Hızlı)
+cd project_structure_reorganized/02_models/bert_classification/
+python simple_agricultural_bert.py
+# → Çıktı: %86+ accuracy, agricultural_bert_base_uncased/ klasörü oluşur
+
+### DistilBERT (En İyi Performans)
+cd project_structure_reorganized/02_models/bert_classification/
+python train_distilbert.py
+# → Çıktı: %96+ accuracy, distilbert_agricultural/ klasörü oluşur
+
+## 💬 CHATBOT TESTLERİ
+
+### Basit BERT Chatbot
+cd project_structure_reorganized/04_deployment/chatbots/
+python simple_agricultural_chatbot.py
+# → Etkileşimli chatbot başlar
+# → Çıkış için: 'quit' yazın
+
+### RAG Chatbot (Gelişmiş)
+cd project_structure_reorganized/02_models/rag_hybrid/
+python advanced_agricultural_rag_chatbot.py
+# → RAG sistemli chatbot başlar
+# → Çıkış için: 'exit' yazın
+
+## 🔍 PERFORMANS TESTLERİ
+
+### Tüm Modelleri Karşılaştır
+cd project_structure_reorganized/03_training_results/
+python compare_all_models.py
+# → Tüm modellerin performansını karşılaştırır
+# → Sonuç: performance_metrics/comparison_results.json
+
+### Model Çıktılarını İncele
+cd project_structure_reorganized/03_training_results/model_outputs/
+cat comparison_examples.md
+# → Farklı modellerin aynı sorulara verdiği cevapları gösterir
+
+## 📈 VERİ ANALİZİ
+
+### Veri Setini İncele
+cd project_structure_reorganized/01_data_preparation/original_data/
+cat agricultural_bert_dataset.json | head -50
+# → Ham veri setini gösterir
+
+### Training Loglarını Kontrol Et
+cd project_structure_reorganized/02_models/bert_classification/
+ls -la *.log
+# → Eğitim loglarını listeler
+
+## 🧪 DETAYALI TEST SENARYOLARİ
+
+### Senaryo 1: Hızlı Prototip Test
+cd project_structure_reorganized/02_models/bert_classification/
+python simple_agricultural_bert.py
+cd ../../04_deployment/chatbots/
+python simple_agricultural_chatbot.py
+# → Test soruları:
+# "Elmada erken yanıklığı nasıl tedavi edilir?"
+# "Buğday ekim zamanı ne zaman?"
+
+### Senaryo 2: Production Ready Test
+cd project_structure_reorganized/02_models/bert_classification/
+python train_distilbert.py  # En iyi modeli eğit
+cd ../../03_training_results/
+python compare_all_models.py  # Performansı ölç
+# → Beklenen: %96+ accuracy
+
+### Senaryo 3: Kapsamlı Sistem Test
+cd project_structure_reorganized/02_models/rag_hybrid/
+python advanced_agricultural_rag_chatbot.py
+# → Test soruları:
+# "Organik tarımda böcek kontrolü nasıl yapılır?"
+# "İklim değişikliği tarımı nasıl etkiler?"
+
+## 🔧 TEKNİK KONTROLLER
+
+### Model Dosyalarını Kontrol Et
+find project_structure_reorganized/ -name "*.bin" -o -name "pytorch_model.*"
+# → Eğitilmiş model dosyalarını listeler
+
+### GPU/CPU Kullanımını İzle
+# Jetson için:
+jtop  # GPU/CPU/RAM kullanımı
+
+# Linux için:
+htop  # CPU/RAM kullanımı
+nvidia-smi  # GPU kullanımı
+
+### Disk Alanını Kontrol Et
+du -sh project_structure_reorganized/02_models/*/
+# → Her model klasörünün boyutunu gösterir
+
+## 📊 PERFORMANS BENCHMARK
+
+### Yanıt Hızı Testi
+cd project_structure_reorganized/03_training_results/
+python compare_all_models.py
+# → Çıktı: Her model için ms cinsinden yanıt süresi
+
+### Bellek Kullanımı Testi
+cd project_structure_reorganized/02_models/bert_classification/
+python -c "
+import torch
+from transformers import BertForSequenceClassification
+model = BertForSequenceClassification.from_pretrained('bert-base-uncased')
+print(f'Model parametr sayısı: {sum(p.numel() for p in model.parameters()):,}')
+"
+# → Model boyut bilgisi
+
+## 🐛 SORUN GİDERME
+
+### Model Yükleme Sorunu
+ls project_structure_reorganized/02_models/bert_classification/
+# Eğer boşsa:
+cd project_structure_reorganized/02_models/bert_classification/
+python simple_agricultural_bert.py  # Model eğit
+
+### Bağımlılık Sorunu
+pip list | grep -E "(torch|transformers)"
+# Eksikse:
+pip install torch transformers
+
+### Bellek Sorunu (Jetson için)
+# simple_agricultural_bert.py içinde batch_size'ı azalt:
+# BATCH_SIZE = 4  # 8 yerine
+
+## 📁 DOSYA YAPISI KONTROLÜ
+
+### Proje Yapısını Kontrol Et
+find project_structure_reorganized/ -type d | sort
+# → Tüm klasörleri listeler
+
+### Python Dosyalarını Kontrol Et
+find project_structure_reorganized/ -name "*.py" | sort
+# → Tüm Python dosyalarını listeler
+
+### Dokümantasyonu Kontrol Et
+find project_structure_reorganized/05_documentation/ -name "*.md"
+# → Tüm markdown dosyalarını listeler
+
+## 🎯 SONUÇ KONTROLLERI
+
+### Training Sonuçlarını Gör
+cd project_structure_reorganized/03_training_results/performance_metrics/
+cat comparison_results.json | jq '.'  # JSON formatlı görüntüleme
+# Alternatif: cat comparison_results.json
+
+### Model Çıktılarını Karşılaştır
+cd project_structure_reorganized/03_training_results/model_outputs/
+head -100 comparison_examples.md
+# → İlk 100 satırı gösterir
+
+### Teknik Raporu İncele
+cd project_structure_reorganized/05_documentation/
+head -50 technical_report.md
+# → Teknik raporun başlangıcını gösterir
+
+## 🚀 TAM TEST PIPELINE
+
+### Baştan Sona Tam Test (30 dakika)
+cd project_structure_reorganized
+
+# 1. Bağımlılık kontrolü
+pip install -r requirements.txt
+
+# 2. Basit model eğitimi
+cd 02_models/bert_classification/
+python simple_agricultural_bert.py
+
+# 3. İleri model eğitimi
+python train_distilbert.py
+
+# 4. Performans karşılaştırması
+cd ../../03_training_results/
+python compare_all_models.py
+
+# 5. Chatbot testi
+cd ../04_deployment/chatbots/
+python simple_agricultural_chatbot.py
+# → Test soruları girin ve sonuçları değerlendirin
+
+# 6. Sonuçları kaydet
+cd ../../03_training_results/performance_metrics/
+cp comparison_results.json test_results_$(date +%Y%m%d_%H%M%S).json
+
+## 📋 TEST CHECKLIST
+
+□ Bağımlılıklar yüklendi (pip install -r requirements.txt)
+□ BERT modeli eğitildi (simple_agricultural_bert.py)
+□ DistilBERT modeli eğitildi (train_distilbert.py)  
+□ Karşılaştırma testi yapıldı (compare_all_models.py)
+□ Chatbot test edildi (simple_agricultural_chatbot.py)
+□ Sonuçlar kaydedildi (performance_metrics/comparison_results.json)
+□ Teknik rapor incelendi (05_documentation/technical_report.md)
+
+## ⚠️ ÖNEMLİ NOTLAR
+
+1. İlk çalıştırmada model indirme işlemi zaman alabilir
+2. Jetson cihazlarda batch_size=8 önerilir
+3. GPU yoksa CPU modunda çalışır (daha yavaş)
+4. Model dosyaları ~2-3GB yer kaplar
+5. Tam pipeline test için ~30 dakika öngörün
+
+## 🎉 BAŞARILI TEST SONUCU
+
+Başarılı test sonrası görmeli oldukları:
+✅ BERT modeli: %86+ accuracy
+✅ DistilBERT modeli: %96+ accuracy  
+✅ Chatbot çalışıyor
+✅ Karşılaştırma sonuçları mevcut
+✅ JSON dosyası oluştu
+
+Sorun yaşarsanız 05_documentation/technical_report.md dosyasını inceleyin! 

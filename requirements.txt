@@ -17,7 +17,25 @@ seaborn>=0.11.0
 # Utilities
 tqdm>=4.64.0
 
+# Jupyter Notebook (recommended for interactive training)
+jupyter>=1.0.0
+ipywidgets>=8.0.0
+
+# Chatbot & RAG System Dependencies
+sentence-transformers>=2.2.0
+faiss-cpu>=1.7.4
+gradio>=3.50.0
+streamlit>=1.28.0
+
+# Text Generation
+openai>=1.3.0
+langchain>=0.0.350
+chromadb>=0.4.0
+
+# Web API Dependencies
+flask>=2.2.0
+flask-cors>=4.0.0
+
 # Optional Dependencies (install as needed)
 # TensorFlow for H5 export: tensorflow>=2.10.0
-# Flask for API: flask>=2.2.0
-# Jupyter for notebooks: jupyter>=1.0.0 
+# For GPU FAISS: faiss-gpu>=1.7.4 (instead of faiss-cpu) 
