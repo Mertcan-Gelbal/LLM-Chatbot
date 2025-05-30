@@ -114,14 +114,6 @@ cd jetson_training
 python3 bert_classification_trainer.py
 ```
 
-### **⚡ Performance Targets on Jetson**
-```bash
-# BERT-base: 15-20 min training, ~45ms inference
-# BERT-small: 8-12 min training, ~19ms inference  
-# DistilBERT: 10-15 min training, ~28ms inference
-# BERT-large: 25-35 min training, ~78ms inference
-```
-
 ### **🎯 Edge Optimizasyonları**
 - **Mixed Precision (FP16):** %40 memory reduction
 - **Dynamic Batch Sizing:** Memory-based adjustment  
